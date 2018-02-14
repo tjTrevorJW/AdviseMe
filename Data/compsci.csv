@@ -1,0 +1,224 @@
+
+CRN,**Notes,Course,Title,SH,Course Type,Instructor,Meeting Dates,Days,Time,Location,Categories,Seats,Limit,Enroll,*Campus
+15115,,CSC 101-01,Intro to Computer Concepts,3,LEC,Jeffrey N. Whitworth,08-JAN-2018 to 25-APR-2018,M,1700-1815,PETT 217,.SI,0,25,25,M
+,,,,,,,,W,1700-1815,PETT 007,,,,,,
+,,,,,,,,,,,,,,,,
+16542,8,CSC 110-01,Computational Problem Solving,3,LEC,Lance M. Everhart,08-JAN-2018 to 25-APR-2018,T R,1400-1515,PETT 217,.GMT,15,28,13,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15051,3,CSC 130-01,Intro to Computer Science,3,LEL,Mark V. Armstrong,08-JAN-2018 to 25-APR-2018,M,1000-1150,PETT 136,,1,38,37,M
+,,,,,,,,W,1000-1150,PETT 222,,,,,,
+,,,,,,,,,,,,,,,,
+15053,3,CSC 130-02,Intro to Computer Science,3,LEL,Mark V. Armstrong,08-JAN-2018 to 25-APR-2018,M,1000-1150,PETT 136,,6,38,32,M
+,,,,,,,,W,1300-1450,PETT 222,,,,,,
+,,,,,,,,,,,,,,,,
+15055,3,CSC 130-03,Intro to Computer Science,3,LEL,Mark V. Armstrong,08-JAN-2018 to 25-APR-2018,M,1000-1150,PETT 136,,5,38,33,M
+,,,,,,,,W,1530-1720,PETT 222,,,,,,
+,,,,,,,,,,,,,,,,
+15056,3,CSC 230-01,Elem Data Struc / Algorithms,3,LEC,Chandana Ariyawansa,08-JAN-2018 to 25-APR-2018,M W,1400-1515,PETT 227,,3,35,32,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15057,3,CSC 230-02,Elem Data Struc / Algorithms,3,LEC,Chandana Ariyawansa,08-JAN-2018 to 25-APR-2018,T R,1230-1345,PETT 224,,2,35,33,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15058,3,CSC 230-03,Elem Data Struc / Algorithms,3,LEC,Chandana Ariyawansa,08-JAN-2018 to 25-APR-2018,T R,1530-1645,PETT 223,,20,35,15,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15061,3,CSC 250-01,Foundations of Comp Science I,3,LEC,Lance M. Everhart,08-JAN-2018 to 25-APR-2018,M W,1530-1645,PETT 150,,0,35,35,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15070,3,CSC 250-02,Foundations of Comp Science I,3,LEC,Lance M. Everhart,08-JAN-2018 to 25-APR-2018,M W,1730-1845,PETT 150,,22,35,13,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15071,3,CSC 250-03,Foundations of Comp Science I,3,LEC,Lance M. Everhart,08-JAN-2018 to 25-APR-2018,T R,1100-1215,PETT 223,,-1,28,29,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15074,3,CSC 261-01,Computr Org / Assembly Languag,3,LEC,Mark V. Armstrong,08-JAN-2018 to 25-APR-2018,T R,1400-1515,PETT 223,,3,40,37,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10449,3,CSC 330-01,Advanced Data Structures,3,LEC,Prashanti Manda,08-JAN-2018 to 25-APR-2018,M W,1400-1515,PETT 223,,5,35,30,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15085,3,CSC 339-01,Concepts of Progrming Languags,3,LEC,Lixin Fu,08-JAN-2018 to 25-APR-2018,T R,1530-1645,PETT 227,,12,28,16,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15086,3,CSC 339-02,Concepts of Progrming Languags,3,LEC,Lixin Fu,08-JAN-2018 to 25-APR-2018,T R,1230-1345,PETT 223,,0,28,28,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15093,3,CSC 340-01,Software Engineering,3,LEC,Shanmugathasan Suthaharan,08-JAN-2018 to 25-APR-2018,T R,0930-1045,PETT 227,.WI,2,25,23,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15096,3,CSC 340-02,Software Engineering,3,LEC,Richard I. Quigley,08-JAN-2018 to 25-APR-2018,M W,1730-1845,PETT 227,.WI,11,25,14,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15101,3,CSC 350-01,Foundations of Comp Science II,3,LEC,Fereidoon Sadri,08-JAN-2018 to 25-APR-2018,M W F,0900-0950,PETT 227,,19,28,9,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15102,3,CSC 350-02,Foundations of Comp Science II,3,LEC,Fereidoon Sadri,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,PETT 217,,8,28,20,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15120,3,CSC 471-01,Principles of Database Systems,3,LEC,Lixin Fu,08-JAN-2018 to 25-APR-2018,T R,1730-1845,PETT 150,,1,35,34,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10450,1,CSC 490-01,Senior Capstone,3,LEC,Somya D. Mohanty,08-JAN-2018 to 25-APR-2018,M W,1530-1645,PETT 007,.SI.WI,7,25,18,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17299,1,CSC 490-02,Senior Capstone,3,LEC,Shanmugathasan Suthaharan,08-JAN-2018 to 25-APR-2018,M W,1530-1645,PETT 227,.SI.WI,4,22,18,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15695,"1,14,37",CSC 493-01,Honors Work in CSC,3,IND,,08-JAN-2018 to 25-APR-2018,,,,.HSS,0,1,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15129,"1,9",CSC 495-01,Topics: Intro to Graphics,3,LEC,Chandana Ariyawansa,08-JAN-2018 to 25-APR-2018,T R,0930-1045,PETT 223,,12,35,23,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+16543,"1,3",CSC 510-01,Big Data and Machine Learning,3,LEC,Shanmugathasan Suthaharan,08-JAN-2018 to 25-APR-2018,T R,1100-1215,SULV 355,,-2,35,37,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+16930,3,CSC 523-01,Numericl Analysis / Computing,3,LEC,Thomas L. Lewis,01-MAR-2018 to 30-APR-2018,M W F,1000-1050,PETT 007,,6,10,4,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15139,1,CSC 526-01,Bioinformatics,3,LEC,Prashanti Manda,08-JAN-2018 to 25-APR-2018,M W,1230-1345,PETT 223,,12,35,23,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10451,3,CSC 529-01,Artificial Intelligence,3,LEC,Nancy L. Green,08-JAN-2018 to 25-APR-2018,T R,1530-1645,PETT 150,,1,35,34,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+16544,3,CSC 540-01,Human-Computer Interface Dev,3,LEC,Nancy L. Green,08-JAN-2018 to 25-APR-2018,T R,1230-1345,PETT 136,,2,35,33,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15153,3,CSC 553-01,Theory of Computation,3,LEC,Francine Blanchet-Sadri,08-JAN-2018 to 25-APR-2018,M W F,0800-0850,PETT 227,,0,35,35,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15264,3,CSC 562-01,Prin of Operating Systems,3,LEL,Somya D. Mohanty,08-JAN-2018 to 25-APR-2018,M W,1100-1215,PETT 213,,1,45,44,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15160,3,CSC 580-01,"Cryptogrphy, Security in Comp",3,LEC,Stephen R. Tate,08-JAN-2018 to 25-APR-2018,T R,1400-1515,PETT 227,,15,35,20,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15391,"99,159",CSC 593-01,Directed Study in Computer Sci,1,IND,Francine Blanchet-Sadri,08-JAN-2018 to 25-APR-2018,,,,,1,2,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15398,"99,159",CSC 593-02,Directed Study in Computer Sci,1,IND,Jing Deng,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15401,"99,159",CSC 593-03,Directed Study in Computer Sci,1,IND,Lixin Fu,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15404,"99,159",CSC 593-04,Directed Study in Computer Sci,1,IND,Nancy L. Green,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15407,"99,159",CSC 593-05,Directed Study in Computer Sci,1,IND,Prashanti Manda,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15410,"99,159",CSC 593-06,Directed Study in Computer Sci,1,IND,Somya D. Mohanty,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15414,"99,159",CSC 593-07,Directed Study in Computer Sci,1,IND,Fereidoon Sadri,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15418,"99,159",CSC 593-08,Directed Study in Computer Sci,1,IND,Shanmugathasan Suthaharan,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15421,"99,159",CSC 593-09,Directed Study in Computer Sci,1,IND,Stephen R. Tate,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17447,"99,159",CSC 594-01,Directed Study in Computer Sci,1,IND,Somya D. Mohanty,08-JAN-2018 to 25-APR-2018,,,,,4,5,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17507,"99,159",CSC 594-02,Directed Study in Computer Sci,1,IND,Shanmugathasan Suthaharan,08-JAN-2018 to 25-APR-2018,,,,,1,1,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15166,3,CSC 653-01,Advanced Theory of Computation,3,LEC,Francine Blanchet-Sadri,08-JAN-2018 to 25-APR-2018,M W F,0900-0950,PETT 313,,9,25,16,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15170,3,CSC 671-01,Advanced Database Systems,3,LEC,Fereidoon Sadri,08-JAN-2018 to 25-APR-2018,M W,1400-1515,PETT 150,,10,25,15,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17180,1,CSC 697-01,Research Problems Computer Sci,3,IND,Shanmugathasan Suthaharan,08-JAN-2018 to 25-APR-2018,,,,,1,3,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17523,1,CSC 697-03,Research Problems Computer Sci,3,IND,Lixin Fu,08-JAN-2018 to 25-APR-2018,,,,,1,2,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15394,"1,159",CSC 698-01,Project in Computer Science,3,IND,Francine Blanchet-Sadri,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15399,"1,159",CSC 698-02,Project in Computer Science,3,IND,Jing Deng,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15402,"1,159",CSC 698-03,Project in Computer Science,3,IND,Lixin Fu,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15405,"1,159",CSC 698-04,Project in Computer Science,3,IND,Nancy L. Green,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15408,"1,159",CSC 698-05,Project in Computer Science,3,IND,Prashanti Manda,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15412,"1,159",CSC 698-06,Project in Computer Science,3,IND,Somya D. Mohanty,08-JAN-2018 to 25-APR-2018,,,,,0,2,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15416,"1,159",CSC 698-07,Project in Computer Science,3,IND,Fereidoon Sadri,08-JAN-2018 to 25-APR-2018,,,,,0,2,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15419,"1,159",CSC 698-08,Project in Computer Science,3,IND,Shanmugathasan Suthaharan,08-JAN-2018 to 25-APR-2018,,,,,-2,2,4,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15422,"1,159",CSC 698-09,Project in Computer Science,3,IND,Stephen R. Tate,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15397,159,CSC 699-01,Thesis,1,DTS,Francine Blanchet-Sadri,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15400,159,CSC 699-02,Thesis,1,DTS,Jing Deng,08-JAN-2018 to 25-APR-2018,,,,,1,2,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15403,159,CSC 699-03,Thesis,1,DTS,Lixin Fu,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15406,159,CSC 699-04,Thesis,1,DTS,Nancy L. Green,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15409,159,CSC 699-05,Thesis,1,DTS,Prashanti Manda,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15413,159,CSC 699-06,Thesis,1,DTS,Somya D. Mohanty,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15417,159,CSC 699-07,Thesis,1,DTS,Fereidoon Sadri,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15420,159,CSC 699-08,Thesis,1,DTS,Shanmugathasan Suthaharan,08-JAN-2018 to 25-APR-2018,,,,,1,2,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15423,159,CSC 699-09,Thesis,1,DTS,Stephen R. Tate,08-JAN-2018 to 25-APR-2018,,,,,2,2,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+14389,159,CSC 801-01,Thesis Extension,1,DTS,Shanmugathasan Suthaharan,08-JAN-2018 to 25-APR-2018,,,,,1,1,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15929,159,CSC 803-01,Research Extension,1,DTS,Nancy L. Green,08-JAN-2018 to 25-APR-2018,,,,,1,1,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17280,159,CSC 803-02,Research Extension,1,DTS,Shanmugathasan Suthaharan,08-JAN-2018 to 25-APR-2018,,,,,-1,1,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17389,159,CSC 803-03,Research Extension,1,DTS,Francine Blanchet-Sadri,08-JAN-2018 to 25-APR-2018,,,,,0,1,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17493,159,CSC 803-04,Research Extension,1,DTS,Jing Deng,08-JAN-2018 to 25-APR-2018,,,,,0,1,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+*Campus,Description
+C,Continual Learning/iSchool
+D,Distance Learning/Off-Campus
+F,Fast Forward
+G,Greensboro Main
+I,Consortium/Special Exams
+L,Interlink
+M,Main Campus
+O,Online
+S,Site Off-Campus
+X,107 Extension Non-Fundable
+Z,DCL - Custom Non-Fundable

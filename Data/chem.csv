@@ -1,0 +1,554 @@
+
+CRN,**Notes,Course,Title,SH,Course Type,Instructor,Meeting Dates,Days,Time,Location,Categories,Seats,Limit,Enroll,*Campus
+10047,,CHE 101-01,Introductory Chemistry,3,LEC,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,EBER 250,.ENV.GNS.GPS,92,225,133,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10048,,CHE 103-01,General Descriptive Chem I,3,LEC,Mary A. Gerhard,08-JAN-2018 to 25-APR-2018,T R,1230-1345,SULV 201,.ENV.GNS.GPS.SUS,1,120,119,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17116,30,CHE 103-02,General Descriptive Chem I,3,WEB,Sarmad S. Hindo,08-JAN-2018 to 25-APR-2018,,,,.ENV.GNS.GPS.SUS,-1,39,40,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17003,"29,30,141",CHE 103-02D,General Descriptive Chem I,3,WEB,Sarmad S. Hindo,08-JAN-2018 to 25-APR-2018,,,,.ENV.GNS.GPS.SUS,-1,0,1,D
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10049,,CHE 104-01,General Descriptive Chem II,3,LEC,Mary A. Gerhard,08-JAN-2018 to 25-APR-2018,T R,0800-0915,SULV 101,.GNS.GPS,20,140,120,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10050,,CHE 104-02,General Descriptive Chem II,3,LEC,Mary A. Gerhard,08-JAN-2018 to 25-APR-2018,T R,1530-1645,SULV 101,.GNS.GPS,13,140,127,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17388,,CHE 104-03,General Descriptive Chem II,3,LEC,Pradyumna K. Pradhan,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,PETT 219,.GNS.GPS,18,40,22,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10055,3,CHE 110-01,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M
+,,,,,,Keaton C. Greer,,W,1530-1650,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10056,3,CHE 110-02,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M
+,,,,,,,,W,1530-1650,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10057,3,CHE 110-03,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1900-2020,SULV 233,.ENV.GNS.GPS.SUS,1,21,20,M
+,,,,,,Ngoc H. Vu,,W,2030-2150,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10058,3,CHE 110-04,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1900-2020,SULV 233,.ENV.GNS.GPS.SUS,-1,3,4,M
+,,,,,,Ngoc H. Vu,,W,2030-2150,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10059,3,CHE 110-05,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,0800-0920,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M
+,,,,,,Keaton C. Greer,,R,0930-1050,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10060,3,CHE 110-06,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,0800-0920,SULV 233,.ENV.GNS.GPS.SUS,11,24,13,M
+,,,,,,David B. Stubbs,,R,0930-1050,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10061,3,CHE 110-07,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1100-1220,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M
+,,,,,,Steven N. Cochran,,R,1230-1350,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10062,3,CHE 110-08,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1100-1220,SULV 233,.ENV.GNS.GPS.SUS,2,24,22,M
+,,,,,,Heather L. Winter,,R,1230-1350,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10063,3,CHE 110-09,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M
+,,,,,,Steven N. Cochran,,R,1530-1650,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10064,3,CHE 110-10,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M
+,,,,,,,,R,1530-1650,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10065,3,CHE 110-11,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1700-1820,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M
+,,,,,,Ngoc H. Vu,,R,1830-1950,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10066,3,CHE 110-12,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1700-1820,SULV 233,.ENV.GNS.GPS.SUS,13,24,11,M
+,,,,,,,,R,1830-1950,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10051,3,CHE 111-01,General Chemistry I,3,LEC,Huiyuan Hu,08-JAN-2018 to 25-APR-2018,T R,1730-1845,SULV 201,.ENV.GNS.GPS.SUS,19,120,101,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10052,3,CHE 111-02,General Chemistry I,3,LEC,Huiyuan Hu,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,SULV 201,.ENV.GNS.GPS.SUS,4,120,116,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12599,3,CHE 111-03,General Chemistry I,3,LEC,Huiyuan Hu,08-JAN-2018 to 25-APR-2018,M W F,0900-0950,SULV 101,.ENV.GNS.GPS.SUS,-2,140,142,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10067,3,CHE 112-01,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1100-1220,SULV 355,.ENV.GNS.GPS.SUS,1,24,23,M
+,,,,,,Emily D. Wallace,,M,1230-1350,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10068,3,CHE 112-02,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1100-1220,SULV 355,.ENV.GNS.GPS.SUS,1,24,23,M
+,,,,,,Joseph N. Mwangi,,M,1230-1350,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10069,3,CHE 112-03,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M
+,,,,,,Chante A. Muller,,M,1530-1650,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10070,3,CHE 112-04,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M
+,,,,,,,,M,1530-1650,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10071,3,CHE 112-05,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1900-2020,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M
+,,,,,,Chante A. Muller,,M,2030-2150,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10072,3,CHE 112-06,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1900-2020,SULV 233,.ENV.GNS.GPS.SUS,2,24,22,M
+,,,,,,,,M,2030-2150,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10073,3,CHE 112-07,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,0800-0920,SULV 355,.ENV.GNS.GPS.SUS,0,24,24,M
+,,,,,,Spencer J. Peterman,,T,0930-1050,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10074,3,CHE 112-08,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,0800-0920,SULV 355,.ENV.GNS.GPS.SUS,0,24,24,M
+,,,,,,Osbin F. Perdomo Rosales,,T,0930-1050,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10075,3,CHE 112-09,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1100-1220,SULV 233,.ENV.GNS.GPS.SUS,-1,24,25,M
+,,,,,,Gabrielle P. Dailey,,T,1230-1350,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+10076,3,CHE 112-10,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1100-1220,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M
+,,,,,,,,T,1230-1350,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+12600,3,CHE 112-11,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M
+,,,,,,Emily D. Wallace,,T,1530-1650,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+12619,3,CHE 112-12,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M
+,,,,,,Spencer J. Peterman,,T,1530-1650,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+13796,3,CHE 112-13,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1700-1820,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M
+,,,,,,Kristof Bence Cank,,T,1830-1950,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+13797,3,CHE 112-14,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1700-1820,SULV 233,.ENV.GNS.GPS.SUS,9,24,15,M
+,,,,,,Osbin F. Perdomo Rosales,,T,1830-1950,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+17379,3,CHE 112-15,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,0800-0920,SULV 233,.ENV.GNS.GPS.SUS,14,24,10,M
+,,,,,,Kristof Bence Cank,,W,0930-1050,SULV 216,,,,,,
+,,,,,,,,,,,,,,,,
+17380,3,CHE 112-16,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,0800-0920,SULV 233,.ENV.GNS.GPS.SUS,17,24,7,M
+,,,,,,Kristof Bence Cank,,W,0930-1050,SULV 222,,,,,,
+,,,,,,,,,,,,,,,,
+10053,3,CHE 114-01,General Chemistry II,3,LEC,Dennis A. Burnes,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,SULV 201,.GNS.GPS,0,120,120,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10054,3,CHE 114-02,General Chemistry II,3,LEC,Dennis A. Burnes,08-JAN-2018 to 25-APR-2018,M W,1730-1845,SULV 101,.GNS.GPS,12,140,128,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+14293,3,CHE 114-03,General Chemistry II,3,LEC,Edwar S. Shamshoum,08-JAN-2018 to 25-APR-2018,T R,1730-1845,SULV 200,.GNS.GPS,9,96,87,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10077,3,CHE 115-01,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1400-1520,SULV 355,.GNS.GPS,0,24,24,M
+,,,,,,Patricia S. Boyd,,M,1530-1650,SULV 215,,,,,,
+,,,,,,,,,,,,,,,,
+10078,3,CHE 115-02,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1400-1520,SULV 355,.GNS.GPS,0,24,24,M
+,,,,,,Abraham Ustoyev,,M,1530-1650,SULV 221,,,,,,
+,,,,,,,,,,,,,,,,
+10079,3,CHE 115-03,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,0930-1050,SULV 233,.GNS.GPS,1,24,23,M
+,,,,,,Faith E. Howell,,T,1100-1120,SULV 215,,,,,,
+,,,,,,,,,,,,,,,,
+10080,3,CHE 115-04,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,0930-1050,SULV 233,.GNS.GPS,0,24,24,M
+,,,,,,,,T,1100-1220,SULV 221,,,,,,
+,,,,,,,,,,,,,,,,
+10082,3,CHE 115-05,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1100-1150,SULV 233,.GNS.GPS,2,24,22,M
+,,,,,,Olalekan S. Oyekunle,,M,1200-1350,SULV 215,,,,,,
+,,,,,,,,,,,,,,,,
+10083,3,CHE 115-06,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1100-1150,SULV 233,.GNS.GPS,6,24,18,M
+,,,,,,Faith E. Howell,,M,1200-1350,SULV 221,,,,,,
+,,,,,,,,,,,,,,,,
+10084,3,CHE 115-07,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1530-1650,SULV 233,.GNS.GPS,1,24,23,M
+,,,,,,John A. Roque,,T,1700-1820,SULV 215,,,,,,
+,,,,,,,,,,,,,,,,
+10085,3,CHE 115-08,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1530-1650,SULV 233,.GNS.GPS,2,24,22,M
+,,,,,,Gregory T. Wilson,,T,1700-1820,SULV 221,,,,,,
+,,,,,,,,,,,,,,,,
+10086,3,CHE 115-09,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1900-2020,SULV 233,.GNS.GPS,4,24,20,M
+,,,,,,Rhashanda D. Haywood,,T,2030-2150,SULV 215,,,,,,
+,,,,,,,,,,,,,,,,
+10087,3,CHE 115-10,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1900-2020,SULV 233,.GNS.GPS,2,24,22,M
+,,,,,,Abraham Ustoyev,,T,2030-2150,SULV 221,,,,,,
+,,,,,,,,,,,,,,,,
+10088,3,CHE 115-11,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1400-1520,SULV 355,.GNS.GPS,3,24,21,M
+,,,,,,John A. Roque,,W,1530-1650,SULV 215,,,,,,
+,,,,,,,,,,,,,,,,
+12598,3,CHE 115-12,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1400-1520,SULV 355,.GNS.GPS,4,24,20,M
+,,,,,,Rhashanda D. Haywood,,W,1530-1650,SULV 221,,,,,,
+,,,,,,,,,,,,,,,,
+13789,3,CHE 115-13,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,0930-1050,SULV 233,.GNS.GPS,2,24,22,M
+,,,,,,Olalekan S. Oyekunle,,R,1100-1220,SULV 215,,,,,,
+,,,,,,,,,,,,,,,,
+13798,3,CHE 115-14,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,0930-1050,SULV 233,.GNS.GPS,7,24,17,M
+,,,,,,,,R,1100-1220,SULV 221,,,,,,
+,,,,,,,,,,,,,,,,
+14361,3,CHE 115-15,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1100-1150,SULV 233,.GNS.GPS,11,24,13,M
+,,,,,,Patricia S. Boyd,,W,1200-1350,SULV 215,,,,,,
+,,,,,,,,,,,,,,,,
+14362,3,CHE 115-16,General Chemistry II Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1100-1150,SULV 233,.GNS.GPS,15,24,9,M
+,,,,,,Patricia S. Boyd,,W,1200-1350,SULV 221,,,,,,
+,,,,,,,,,,,,,,,,
+10089,3,CHE 191-01,Introduction to Research,1,IND,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,20,24,4,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15554,3,CHE 252-01,Chemistry / Human Environment,3,LEC,Robert B. Banks,08-JAN-2018 to 25-APR-2018,T R,1100-1215,SULV 217,.ENV.SUS,2,24,22,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10090,"1,3,159",CHE 292-01,Sophomore Research,1,IND,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,12,15,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+16442,3,CHE 351-01,Organic Chemistry I,4,LEC,Pradyumna K. Pradhan,08-JAN-2018 to 25-APR-2018,M W F,0840-0950,EBER 284,.ENV,9,80,71,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10091,3,CHE 352-01,Organic Chemistry II,3,LEC,Robert B. Banks,08-JAN-2018 to 25-APR-2018,M W F,0900-0950,SULV 201,.ENV,41,120,79,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10092,3,CHE 352-02,Organic Chemistry II,3,LEC,Sarmad S. Hindo,08-JAN-2018 to 25-APR-2018,T R,0800-0915,SULV 201,.ENV,1,120,119,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+13790,3,CHE 352-03,Organic Chemistry II,3,LEC,Daniel P. Christen,08-JAN-2018 to 25-APR-2018,M W,1730-1845,SULV 200,.ENV,75,96,21,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10093,3,CHE 354-01,Organic Chmstry II Laboratory,1,LAB,Daniel P. Christen,08-JAN-2018 to 25-APR-2018,M,1300-1450,SULV 200,,12,48,36,M
+,,,,,,,,M,1500-1650,SULV 230,,,,,,
+,,,,,,,,M,1500-1620,SULV 240,,,,,,
+10094,3,CHE 354-02,Organic Chmstry II Laboratory,1,LAB,Pradyumna K. Pradhan,08-JAN-2018 to 25-APR-2018,M,1800-1950,SULV 217,,15,24,9,M
+,,,,,,,,M,2000-2150,SULV 230,,,,,,
+,,,,,,,,M,2000-2150,SULV 240,,,,,,
+10095,3,CHE 354-03,Organic Chmstry II Laboratory,1,LAB,Christopher Behme,08-JAN-2018 to 25-APR-2018,T,1300-1450,SULV 200,,2,48,46,M
+,,,,,,,,T,1500-1650,SULV 230,,,,,,
+,,,,,,,,T,1500-1650,SULV 240,,,,,,
+12597,3,CHE 354-04,Organic Chmstry II Laboratory,1,LAB,Christopher Behme,08-JAN-2018 to 25-APR-2018,T,1800-1950,SULV 355,,7,24,17,M
+,,,,,,,,T,2000-2150,SULV 240,,,,,,
+,,,,,,,,T,2000-2150,SULV 230,,,,,,
+13251,3,CHE 354-05,Organic Chmstry II Laboratory,1,LAB,Daniel P. Christen,08-JAN-2018 to 25-APR-2018,W,1300-1450,SULV 200,,6,48,42,M
+,,,,,,,,W,1500-1650,SULV 230,,,,,,
+,,,,,,,,W,1500-1650,SULV 240,,,,,,
+10096,"3,8",CHE 355-01,Intermed Organic Chem Lab,2,LAB,Daniel P. Christen,08-JAN-2018 to 25-APR-2018,R,1100-1150,SULV 200,,19,48,29,M
+,,,,,,,,R,1300-1350,SULV 355,,,,,,
+,,,,,,,,R,1400-1650,SULV 230,,,,,,
+10097,"3,8",CHE 355-02,Intermed Organic Chem Lab,2,LAB,Christopher Behme,08-JAN-2018 to 25-APR-2018,R,1100-1150,SULV 200,,8,24,16,M
+,,,,,,,,R,1800-1850,SULV 203,,,,,,
+,,,,,,,,R,1850-2150,,,,,,,
+12116,"1,3,159",CHE 392-01,Junior Research,1,IND,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,12,15,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10100,"3,10",CHE 401-01,Chemistry Seminar Intro,0,SEM,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,W F,1300-1450,SULV 201,,7,24,17,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10102,"3,9",CHE 402-01,Chemistry Seminar,1,SEM,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,M,1300-1350,SULV 435D,.SI,0,12,12,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10101,"3,9",CHE 402-02,Chemistry Seminar,1,SEM,Ethan W. Taylor,08-JAN-2018 to 25-APR-2018,T,1100-1150,SULV 435D,.SI,1,12,11,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10103,3,CHE 442-01,Advanced Inorganic Chemistry I,3,LEC,Jerome L. Walsh,08-JAN-2018 to 25-APR-2018,M W,0900-0950,SULV 217,,3,16,13,M
+,,,,,,,,F,0900-0950,SULV 226,,,,,,
+,,,,,,,,,,,,,,,,
+10104,3,CHE 462-01,Physical Chemistry II,3,LEC,Alice E. Haddy,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,SULV 203,,17,24,7,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10109,3,CHE 464-01,Physical Chemistry II Lab,1,LAB,Dennis A. Burnes,08-JAN-2018 to 25-APR-2018,M,1300-1650,SULV 354,.WI,11,16,5,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12117,"1,3,9,14,374",CHE 490-01,Internshp Chem and Biochem,3,INT,Norman H. Chiu,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12118,"1,3,159",CHE 492-01,Senior Research,1,IND,Robert B. Banks,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12119,"1,3,159",CHE 492-02,Senior Research,1,IND,Kimberly S. Petersen,08-JAN-2018 to 25-APR-2018,,,,,13,15,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12120,"1,3,159",CHE 492-03,Senior Research,1,IND,Nadja B. Cech,08-JAN-2018 to 25-APR-2018,,,,,12,15,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12121,"1,3,159",CHE 492-04,Senior Research,1,IND,Norman H. Chiu,08-JAN-2018 to 25-APR-2018,,,,,12,15,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12122,"1,3,159",CHE 492-05,Senior Research,1,IND,Liam M. Duffy,08-JAN-2018 to 25-APR-2018,,,,,13,15,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12123,"1,3,159",CHE 492-06,Senior Research,1,IND,Alice E. Haddy,08-JAN-2018 to 25-APR-2018,,,,,12,15,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12124,"1,3,159",CHE 492-07,Senior Research,1,IND,Terence A. Nile,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12125,"1,3,159",CHE 492-08,Senior Research,1,IND,Sherri A. McFarland,08-JAN-2018 to 25-APR-2018,,,,,12,15,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12126,"1,3,159",CHE 492-09,Senior Research,1,IND,Jason J. Reddick,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12128,"1,3,159",CHE 492-10,Senior Research,1,IND,Patricia H. Reggio,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12129,"1,3,159",CHE 492-11,Senior Research,1,IND,Ethan W. Taylor,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12130,"1,3,159",CHE 492-12,Senior Research,1,IND,Jerome L. Walsh,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12131,"1,3,159",CHE 492-13,Senior Research,1,IND,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,,,,,11,15,4,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12132,"1,3,159",CHE 492-14,Senior Research,1,IND,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,8,15,7,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+13875,"1,3,159",CHE 492-15,Senior Research,1,IND,Qibin Zhang,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12133,"1,8,14,37,159",CHE 493-01,Honors Work,3,IND,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,.HSS,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+13242,"3,9",CHE 499-01,Senior Thesis,1,IND,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,4,5,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10105,3,CHE 531-01,Instrumental Analysis,3,LEC,Qibin Zhang,08-JAN-2018 to 25-APR-2018,M W,1730-1845,SULV 355,,23,44,21,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10110,3,CHE 533-01,Instrumental Analysis Lab,1,LAB,Timothy D. Ballard,08-JAN-2018 to 25-APR-2018,T,1400-1750,SULV 349,.WI,13,20,7,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15783,3,CHE 533-02,Instrumental Analysis Lab,1,LAB,Timothy D. Ballard,08-JAN-2018 to 25-APR-2018,R,1400-1750,SULV 349,.WI,16,20,4,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10106,3,CHE 553-01,Advanced Organic Chemistry I,3,LEC,Kimberly S. Petersen,08-JAN-2018 to 25-APR-2018,T R,1530-1645,SULV 217,,8,15,7,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10107,3,CHE 557-01,Biochemistry II,3,LEC,Sherri A. McFarland,08-JAN-2018 to 25-APR-2018,M W F,1000-1050,SULV 200,,33,80,47,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10149,3,CHE 558-01,Biochemistry Lab,1,LAB,Jason J. Reddick,08-JAN-2018 to 25-APR-2018,T,1230-1620,SULV 349,.WI,3,10,7,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10150,3,CHE 558-02,Biochemistry Lab,1,LAB,Pradyumna K. Pradhan,08-JAN-2018 to 25-APR-2018,W,1300-1650,SULV 349,.WI,1,10,9,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10151,3,CHE 558-03,Biochemistry Lab,1,LAB,Ethan W. Taylor,08-JAN-2018 to 25-APR-2018,R,1230-1350,SULV 349,.WI,2,10,8,M
+,,,,,,,,R,1400-1620,SULV 351,,,,,,
+,,,,,,,,,,,,,,,,
+14555,3,CHE 558-04,Biochemistry Lab,1,LAB,Pradyumna K. Pradhan,08-JAN-2018 to 25-APR-2018,M,1300-1650,SULV 349,.WI,1,10,9,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+15810,1,CHE 570B-01,Special Topics:Biochemistry,1,LEC,Patricia H. Reggio,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,SULV 340,,15,20,5,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17496,1,CHE 570B-02,Special Topics:Biochemistry,1,LEC,Norman H. Chiu,08-JAN-2018 to 25-APR-2018,T R,1230-1345,SULV 217,,6,6,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+17363,3,CHE 601-01,Graduate Seminar I,1,SEM,Liam M. Duffy,08-JAN-2018 to 25-APR-2018,M,1300-1350,,,23,24,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10108,3,CHE 602-01,Graduate Seminar II,1,SEM,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,W F,1300-1450,SULV 201,,6,16,10,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+13684,3,CHE 652-01,Synthetic Organic Chemistry,3,LEC,Kimberly S. Petersen,08-JAN-2018 to 25-APR-2018,T R,1530-1645,SULV 217,,6,9,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+16509,1,CHE 658-01,Nucleic Acid Biochemistry,3,LEC,Norman H. Chiu,08-JAN-2018 to 25-APR-2018,T R,1230-1345,SULV 217,,20,24,4,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+16515,3,CHE 659-01,Receptor Biochemistry,3,LEC,Patricia H. Reggio,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,SULV 340,,13,24,11,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+16516,3,CHE 661-01,Advanced Physical Chemistry I,3,LEC,Liam M. Duffy,08-JAN-2018 to 25-APR-2018,M W,1730-1845,SULV 218,,19,24,5,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+16517,"3,159",CHE 670B-01,Adv Special Topic Biochemistry,1,LEC,Nadja B. Cech,08-JAN-2018 to 25-APR-2018,T R,0930-1045,SULV 435D,,5,20,15,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10160,"1,159",CHE 680-01,Research Probs Chem / Biochem,1,IND,Robert B. Banks,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10161,"1,159",CHE 680-02,Research Probs Chem / Biochem,1,IND,Kimberly S. Petersen,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10162,"1,159",CHE 680-03,Research Probs Chem / Biochem,1,IND,Nadja B. Cech,08-JAN-2018 to 25-APR-2018,,,,,12,15,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10163,"1,159",CHE 680-04,Research Probs Chem / Biochem,1,IND,Norman H. Chiu,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10164,"1,159",CHE 680-05,Research Probs Chem / Biochem,1,IND,Liam M. Duffy,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10166,"1,159",CHE 680-06,Research Probs Chem / Biochem,1,IND,Alice E. Haddy,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10168,"1,159",CHE 680-07,Research Probs Chem / Biochem,1,IND,Terence A. Nile,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10169,"1,159",CHE 680-08,Research Probs Chem / Biochem,1,IND,Sherri A. McFarland,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10171,"1,159",CHE 680-09,Research Probs Chem / Biochem,1,IND,Jason J. Reddick,08-JAN-2018 to 25-APR-2018,,,,,13,15,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10172,"1,159",CHE 680-10,Research Probs Chem / Biochem,1,IND,Patricia H. Reggio,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10173,"1,159",CHE 680-11,Research Probs Chem / Biochem,1,IND,Ethan W. Taylor,08-JAN-2018 to 25-APR-2018,,,,,11,15,4,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10178,"1,159",CHE 680-12,Research Probs Chem / Biochem,1,IND,Jerome L. Walsh,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10179,"1,159",CHE 680-13,Research Probs Chem / Biochem,1,IND,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,,,,,13,15,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10182,"1,159",CHE 680-14,Research Probs Chem / Biochem,1,IND,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+13876,"1,159",CHE 680-15,Research Probs Chem / Biochem,1,IND,Qibin Zhang,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10183,"1,159",CHE 699-01,Thesis,1,DTS,Robert B. Banks,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10186,"1,159",CHE 699-02,Thesis,1,DTS,Kimberly S. Petersen,08-JAN-2018 to 25-APR-2018,,,,,13,15,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10187,"1,159",CHE 699-03,Thesis,1,DTS,Nadja B. Cech,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10188,"1,159",CHE 699-04,Thesis,1,DTS,Norman H. Chiu,08-JAN-2018 to 25-APR-2018,,,,,13,15,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10189,"1,159",CHE 699-05,Thesis,1,DTS,Liam M. Duffy,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10191,"1,159",CHE 699-06,Thesis,1,DTS,Alice E. Haddy,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10192,"1,159",CHE 699-07,Thesis,1,DTS,Terence A. Nile,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10193,"1,159",CHE 699-08,Thesis,1,DTS,Sherri A. McFarland,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10194,"1,159",CHE 699-09,Thesis,1,DTS,Jason J. Reddick,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10195,"1,159",CHE 699-10,Thesis,1,DTS,Patricia H. Reggio,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10197,"1,159",CHE 699-11,Thesis,1,DTS,Ethan W. Taylor,08-JAN-2018 to 25-APR-2018,,,,,12,15,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10198,"1,159",CHE 699-12,Thesis,1,DTS,Jerome L. Walsh,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10199,"1,159",CHE 699-13,Thesis,1,DTS,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10201,"1,159",CHE 699-14,Thesis,1,DTS,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+13877,"1,159",CHE 699-15,Thesis,1,DTS,Qibin Zhang,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10203,3,CHE 751-01,PhD Literature Seminar I,1,SEM,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,W F,1300-1450,SULV 201,,9,12,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10204,3,CHE 752-01,PhD Dissertation Seminar II,1,SEM,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,W F,1300-1450,SULV 201,,9,12,3,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10205,"1,159",CHE 780-01,Resrch Prob in Medicnl Biochem,1,IND,Robert B. Banks,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10207,"1,159",CHE 780-02,Resrch Prob in Medicnl Biochem,1,IND,Kimberly S. Petersen,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10208,"1,159",CHE 780-03,Resrch Prob in Medicnl Biochem,1,IND,Nadja B. Cech,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10209,"1,159",CHE 780-04,Resrch Prob in Medicnl Biochem,1,IND,Norman H. Chiu,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10210,"1,159",CHE 780-05,Resrch Prob in Medicnl Biochem,1,IND,Liam M. Duffy,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10211,"1,159",CHE 780-06,Resrch Prob in Medicnl Biochem,1,IND,Alice E. Haddy,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10212,"1,159",CHE 780-07,Resrch Prob in Medicnl Biochem,1,IND,Terence A. Nile,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10213,"1,159",CHE 780-08,Resrch Prob in Medicnl Biochem,1,IND,Sherri A. McFarland,08-JAN-2018 to 25-APR-2018,,,,,13,15,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10214,"1,159",CHE 780-09,Resrch Prob in Medicnl Biochem,1,IND,Jason J. Reddick,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10219,"1,159",CHE 780-10,Resrch Prob in Medicnl Biochem,1,IND,Patricia H. Reggio,08-JAN-2018 to 25-APR-2018,,,,,13,15,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10215,"1,159",CHE 780-11,Resrch Prob in Medicnl Biochem,1,IND,Ethan W. Taylor,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10216,"1,159",CHE 780-12,Resrch Prob in Medicnl Biochem,1,IND,Jerome L. Walsh,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10217,"1,159",CHE 780-13,Resrch Prob in Medicnl Biochem,1,IND,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10218,"1,159",CHE 780-14,Resrch Prob in Medicnl Biochem,1,IND,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+13878,"1,159",CHE 780-15,Resrch Prob in Medicnl Biochem,1,IND,Qibin Zhang,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10220,"1,159",CHE 799-01,Dissrtatn Resrch in Med Bioche,1,DTS,Robert B. Banks,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10272,"1,159",CHE 799-02,Dissrtatn Resrch in Med Bioche,1,DTS,Kimberly S. Petersen,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10273,"1,159",CHE 799-03,Dissrtatn Resrch in Med Bioche,1,DTS,Nadja B. Cech,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10274,"1,159",CHE 799-04,Dissrtatn Resrch in Med Bioche,1,DTS,Norman H. Chiu,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10275,"1,159",CHE 799-05,Dissrtatn Resrch in Med Bioche,1,DTS,Liam M. Duffy,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10276,"1,159",CHE 799-06,Dissrtatn Resrch in Med Bioche,1,DTS,Alice E. Haddy,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10277,"1,159",CHE 799-07,Dissrtatn Resrch in Med Bioche,1,DTS,Terence A. Nile,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10278,"1,159",CHE 799-08,Dissrtatn Resrch in Med Bioche,1,DTS,Sherri A. McFarland,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10279,"1,159",CHE 799-09,Dissrtatn Resrch in Med Bioche,1,DTS,Jason J. Reddick,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10280,"1,159",CHE 799-10,Dissrtatn Resrch in Med Bioche,1,DTS,Patricia H. Reggio,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10281,"1,159",CHE 799-11,Dissrtatn Resrch in Med Bioche,1,DTS,Ethan W. Taylor,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10282,"1,159",CHE 799-12,Dissrtatn Resrch in Med Bioche,1,DTS,Jerome L. Walsh,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10283,"1,159",CHE 799-13,Dissrtatn Resrch in Med Bioche,1,DTS,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10284,"1,159",CHE 799-14,Dissrtatn Resrch in Med Bioche,1,DTS,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+12615,"1,159",CHE 799-15,Dissrtatn Resrch in Med Bioche,1,DTS,Vincent C. Henrich,08-JAN-2018 to 25-APR-2018,,,,,15,15,0,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+13879,"1,159",CHE 799-16,Dissrtatn Resrch in Med Bioche,1,DTS,Qibin Zhang,08-JAN-2018 to 25-APR-2018,,,,,13,15,2,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10285,159,CHE 801-01,Thesis Extension,1,DTS,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10286,,CHE 802-01,Dissertation Extension,1,DTS,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+10287,159,CHE 803-01,Grad Resrch Proj Ext,1,IND,Mitchell P. Croatt,08-JAN-2018 to 25-APR-2018,,,,,14,15,1,M
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+*Campus,Description
+C,Continual Learning/iSchool
+D,Distance Learning/Off-Campus
+F,Fast Forward
+G,Greensboro Main
+I,Consortium/Special Exams
+L,Interlink
+M,Main Campus
+O,Online
+S,Site Off-Campus
+X,107 Extension Non-Fundable
+Z,DCL - Custom Non-Fundable

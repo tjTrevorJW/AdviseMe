@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2018-04-01T22:32:43
+# Project created by QtCreator 2018-04-03T17:47:52
 #
 #-------------------------------------------------
 
@@ -8,7 +8,7 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = Schedule3GUI
+TARGET = PreferencesDialog
 TEMPLATE = app
 
 # The following define makes your compiler emit warnings if you use
@@ -25,10 +25,10 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp
+        dialog.cpp
 
 HEADERS += \
-        mainwindow.h
+        dialog.h
 
 FORMS += \
-        mainwindow.ui
+        dialog.ui

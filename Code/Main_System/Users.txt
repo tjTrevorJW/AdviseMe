@@ -3,7 +3,4 @@ Person;Password;UNCG;Computer Science;[CSC130,CSC230];
 Philip;Osborne;UNCG;Computer Science;[CSC130,CSC230,CSC330];
 bio;user;NCAT;Biology;[Ex101];
 bo;kid;NCAT;Biology;[];
-test;test;Example University;Examples;[];
-test;test;Example University;Examples;[];
-test;test;Example University;Examples;[MAT150,CSC130];
-test;test;Example University;Examples;[];
+tjwhite4;testing;UNCG;Computer Science;[MAT150,MAT151,CSC130];

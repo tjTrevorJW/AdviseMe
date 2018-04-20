@@ -1,0 +1,6 @@
+abc;123;;;[Ex101,Ex102];
+Person;Password;UNCG;Computer Science;[CSC130,CSC230];
+Philip;Osborne;UNCG;Computer Science;[CSC130,CSC230,CSC330];
+bio;user;NCAT;Biology;[Ex101];
+bo;kid;NCAT;Biology;[];
+tjwhite4;testing;UNCG;Computer Science;[MAT150,MAT151,CSC130];

@@ -1,0 +1,362 @@
+Unnamed: 0,CRN,**Notes,Course,Title,SH,Course Type,Instructor,Meeting Dates,Days,Time,Location,Categories,Seats,Limit,Enroll,*Campus,Subject,Prerequisites,Score
+0,15115,,CSC101-01,Intro to Computer Concepts,3,LEC,Jeffrey N. Whitworth,08-JAN-2018 to 25-APR-2018,M,1700-1815,PETT 217,.SI,0,25,25,M,computer science,none,1
+5,15056,3,CSC230-01,Elem Data Struc / Algorithms,3,LEC,Chandana Ariyawansa,08-JAN-2018 to 25-APR-2018,M W,1400-1515,PETT 227,none,3,35,32,M,computer science,CSC130,2
+6,15057,3,CSC230-02,Elem Data Struc / Algorithms,3,LEC,Chandana Ariyawansa,08-JAN-2018 to 25-APR-2018,T R,1230-1345,PETT 224,none,2,35,33,M,computer science,CSC130,2
+7,15058,3,CSC230-03,Elem Data Struc / Algorithms,3,LEC,Chandana Ariyawansa,08-JAN-2018 to 25-APR-2018,T R,1530-1645,PETT 223,none,20,35,15,M,computer science,CSC130,2
+8,15061,3,CSC250-01,Foundations of Comp Science I,3,LEC,Lance M. Everhart,08-JAN-2018 to 25-APR-2018,M W,1530-1645,PETT 150,none,0,35,35,M,computer science,CSC130,2
+9,15070,3,CSC250-02,Foundations of Comp Science I,3,LEC,Lance M. Everhart,08-JAN-2018 to 25-APR-2018,M W,1730-1845,PETT 150,none,22,35,13,M,computer science,CSC130,2
+10,15071,3,CSC250-03,Foundations of Comp Science I,3,LEC,Lance M. Everhart,08-JAN-2018 to 25-APR-2018,T R,1100-1215,PETT 223,none,-1,28,29,M,computer science,CSC130,2
+70,15216,,BIO105-01,Major Concepts Biology,3,WEB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,,,,.GLS.GNS.SUS,0,115,115,M,biology,none,1
+71,15653,"29,30,141",BIO105-01D,Major Concepts Biology,3,WEB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,,,,.GLS.GNS.SUS,-8,0,8,D,biology,none,1
+72,11379,,BIO105-02,Major Concepts Biology,3,LEC,Ann B. Somers,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,SULV 101,.GLS.GNS.SUS,56,295,239,M,biology,none,1
+73,11380,,BIO105-03,Major Concepts Biology,3,LEC,Austin N. Craven,08-JAN-2018 to 25-APR-2018,T R,1700-1815,SULV 101,.GLS.GNS.SUS,45,175,130,M,biology,none,1
+74,15126,"29,30,105",BIO105-81D,Major Concepts Biology,3,WEB,Malcolm D. Schug,09-DEC-2017 to 18-JAN-2018,,,,.GLS.GNS.SUS,5,80,75,D,biology,none,1
+75,11381,3,BIO105L-01,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,M,0900-1150,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+76,11382,3,BIO105L-02,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,M,1200-1450,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+77,11383,3,BIO105L-03,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,M,1500-1750,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+78,11384,3,BIO105L-04,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,M,1800-2050,SULV 112,.GLS.GNS.SUS,1,24,23,M,biology,none,1
+79,11385,3,BIO105L-05,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,T,0930-1220,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+80,11386,3,BIO105L-06,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,T,1230-1520,SULV 112,.GLS.GNS.SUS,1,24,23,M,biology,none,1
+81,11387,3,BIO105L-07,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,T,1530-1820,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+82,11388,3,BIO105L-08,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,T,1830-2120,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+83,11389,3,BIO105L-09,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,W,0900-1150,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+84,14189,3,BIO105L-10,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,W,1200-1450,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+85,14190,3,BIO105L-11,Major Concepts in Bio Lab,1,LAB,Julia Loreth,08-JAN-2018 to 25-APR-2018,W,1500-1750,SULV 112,.GLS.GNS.SUS,1,24,23,M,biology,none,1
+86,14191,3,BIO105L-12,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,W,1800-2050,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+87,14193,3,BIO105L-13,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,R,0930-1220,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+88,14194,3,BIO105L-14,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,R,1230-1520,SULV 112,.GLS.GNS.SUS,0,24,24,M,biology,none,1
+89,15222,3,BIO105L-15,Major Concepts in Bio Lab,1,LAB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,R,1530-1820,SULV 112,.GLS.GNS.SUS,2,24,22,M,biology,none,1
+90,15322,3,BIO105L-16,Major Concepts in Bio Lab,1,WEB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,,,,.GLS.GNS.SUS,0,9,9,M,biology,none,1
+91,15225,"3,29,30,141",BIO105L-16D,Major Concepts in Bio Lab,1,WEB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,,,,.GLS.GNS.SUS,-1,10,11,D,biology,none,1
+92,15226,3,BIO105L-17,Major Concepts in Bio Lab,1,WEB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,,,,.GLS.GNS.SUS,0,10,10,M,biology,none,1
+93,15227,"3,29,30,141",BIO105L-17D,Major Concepts in Bio Lab,1,WEB,Heather Rushforth,08-JAN-2018 to 25-APR-2018,,,,.GLS.GNS.SUS,0,10,10,D,biology,none,1
+94,15229,3,BIO105L-18,Major Concepts in Bio Lab,1,WEB,Austin N. Craven,08-JAN-2018 to 25-APR-2018,,,,.GLS.GNS.SUS,0,10,10,M,biology,none,1
+95,15537,"3,29,30,141",BIO105L-18D,Major Concepts in Bio Lab,1,WEB,Austin N. Craven,08-JAN-2018 to 25-APR-2018,,,,.GLS.GNS.SUS,4,10,6,D,biology,none,1
+96,11390,3,BIO111-01,Principles of Biology I,4,LEC,John E. Tomkiel Dean,08-JAN-2018 to 25-APR-2018,T R,1400-1515,EBER 250,.ENV.GLS.GNS.SUS,10,192,182,M,biology,none,3
+97,11391,3,BIO111-02,Principles of Biology I,4,LEC,Julia Loreth,08-JAN-2018 to 25-APR-2018,M W F,1000-1050,SOEB 120,.ENV.GLS.GNS.SUS,13,192,179,M,biology,none,3
+98,11392,3,BIO111-03,Principles of Biology I,4,LEC,Margaret L. Horton,08-JAN-2018 to 25-APR-2018,T R,1800-1915,EBER 250,.ENV.GLS.GNS.SUS,74,180,106,M,biology,none,3
+99,14848,3,BIO111-04,Principles of Biology I,4,LEC,Maria Cristina D. Moreira,08-JAN-2018 to 25-APR-2018,M W,1400-1515,SULV 101,.ENV.GLS.GNS.SUS,7,180,173,M,biology,none,3
+100,11393,3,BIO111L-01,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,M,0900-1150,SULV 138,.ENV,0,24,24,M,biology,none,2
+101,11394,3,BIO111L-02,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,M,0930-1220,SULV 140,.ENV,1,24,23,M,biology,none,2
+102,11395,3,BIO111L-03,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,M,1200-1450,SULV 138,.ENV,0,24,24,M,biology,none,2
+103,11396,3,BIO111L-04,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,M,1230-1520,SULV 140,.ENV,0,24,24,M,biology,none,2
+104,11397,3,BIO111L-05,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,M,1500-1750,SULV 138,.ENV,1,24,23,M,biology,none,2
+105,11398,3,BIO111L-06,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,M,1530-1820,SULV 140,.ENV,1,24,23,M,biology,none,2
+106,11399,3,BIO111L-07,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,M,1800-2050,SULV 138,.ENV,2,24,22,M,biology,none,2
+107,11400,3,BIO111L-08,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,M,1830-2120,SULV 140,.ENV,2,24,22,M,biology,none,2
+108,11401,3,BIO111L-09,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,T,0900-1150,SULV 138,.ENV,0,24,24,M,biology,none,2
+109,11402,3,BIO111L-10,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,T,0930-1220,SULV 140,.ENV,1,24,23,M,biology,none,2
+110,11403,3,BIO111L-11,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,T,1200-1450,SULV 138,.ENV,0,24,24,M,biology,none,2
+111,11404,3,BIO111L-12,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,T,1230-1520,SULV 140,.ENV,1,24,23,M,biology,none,2
+112,11405,3,BIO111L-13,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,T,1500-1750,SULV 138,.ENV,0,24,24,M,biology,none,2
+113,11406,3,BIO111L-14,Princpls of Biology I Lab,0,LAB,Julia Loreth,08-JAN-2018 to 25-APR-2018,T,1530-1820,SULV 140,.ENV,1,24,23,M,biology,none,2
+114,11407,3,BIO111L-15,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,T,1800-2050,SULV 138,.ENV,0,24,24,M,biology,none,2
+115,14472,3,BIO111L-16,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,T,1830-2120,SULV 140,.ENV,19,24,5,M,biology,none,2
+116,14856,3,BIO111L-17,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,W,0900-1150,SULV 138,.ENV,2,24,22,M,biology,none,2
+117,14857,3,BIO111L-18,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,W,0930-1220,SULV 140,.ENV,0,24,24,M,biology,none,2
+118,14858,3,BIO111L-19,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,W,1200-1450,SULV 138,.ENV,0,24,24,M,biology,none,2
+119,14859,3,BIO111L-20,Princpls of Biology I Lab,0,LAB,Casey M. Taylor,08-JAN-2018 to 25-APR-2018,W,1500-1750,SULV 138,.ENV,1,24,23,M,biology,none,2
+120,14860,3,BIO111L-21,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,W,1800-2050,SULV 138,.ENV,3,24,21,M,biology,none,2
+121,14861,3,BIO111L-22,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,W,1830-2120,SULV 140,.ENV,0,24,24,M,biology,none,2
+122,14862,3,BIO111L-23,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,R,0900-1150,SULV 138,.ENV,0,24,24,M,biology,none,2
+123,14863,3,BIO111L-24,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,R,0930-1220,SULV 140,.ENV,1,24,23,M,biology,none,2
+124,14864,3,BIO111L-25,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,R,1200-1450,SULV 138,.ENV,1,24,23,M,biology,none,2
+125,14865,3,BIO111L-26,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,R,1230-1520,SULV 140,.ENV,0,24,24,M,biology,none,2
+126,14866,3,BIO111L-27,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,R,1500-1750,SULV 138,.ENV,1,24,23,M,biology,none,2
+127,14867,3,BIO111L-28,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,R,1530-1820,SULV 140,.ENV,1,24,23,M,biology,none,2
+128,14868,3,BIO111L-29,Princpls of Biology I Lab,0,LAB,Joseph C. Bundy,08-JAN-2018 to 25-APR-2018,R,1800-2050,SULV 138,.ENV,18,24,6,M,biology,none,2
+129,11414,3,BIO112-02,Principles of Biology II,4,LEC,Peter W. Blum,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,SULV 101,.ENV.GLS.GNS,42,225,183,M,biology,none,1
+130,11415,"3,14,37",BIO112-03,Principles of Biology II,4,LEC,John J. Lepri,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,SULV 103,.ENV.GLS.GNS.HSS,12,24,12,M,biology,none,1
+131,16439,3,BIO112-04,Principles of Biology II,4,LEC,Iglika V. Pavlova,08-JAN-2018 to 25-APR-2018,T R,0800-0915,SULV 200,.ENV.GLS.GNS,20,95,75,M,biology,none,1
+183,14869,3,BIO315-01,Ecology and Evolution Lab,2,LAB,Curtis E. Green,08-JAN-2018 to 25-APR-2018,M,0900-1150,SULV 117,.WI,9,24,15,M,biology,none,1
+184,14870,3,BIO315-02,Ecology and Evolution Lab,2,LAB,Peter W. Blum,08-JAN-2018 to 25-APR-2018,M,1300-1550,SULV 117,.WI,14,24,10,M,biology,none,1
+185,14872,3,BIO315-03,Ecology and Evolution Lab,2,LAB,Austin N. Craven,08-JAN-2018 to 25-APR-2018,T,0900-1150,SULV 117,.WI,16,24,8,M,biology,none,1
+186,14873,3,BIO315-04,Ecology and Evolution Lab,2,LAB,Peter W. Blum,08-JAN-2018 to 25-APR-2018,T,1300-1550,SULV 117,.WI,1,24,23,M,biology,none,1
+187,14874,3,BIO315-05,Ecology and Evolution Lab,2,LAB,Curtis E. Green,08-JAN-2018 to 25-APR-2018,W,0900-1150,SULV 117,.WI,6,24,18,M,biology,none,1
+188,14876,3,BIO315-06,Ecology and Evolution Lab,2,LAB,Robert H. Stavn,08-JAN-2018 to 25-APR-2018,W,1300-1550,SULV 117,.WI,3,24,21,M,biology,none,1
+189,14877,3,BIO315-07,Ecology and Evolution Lab,2,LAB,Curtis E. Green,08-JAN-2018 to 25-APR-2018,R,0900-1150,SULV 117,.WI,16,24,8,M,biology,none,1
+190,14878,3,BIO315-08,Ecology and Evolution Lab,2,LAB,Curtis E. Green,08-JAN-2018 to 25-APR-2018,R,1300-1550,SULV 117,.WI,-1,24,25,M,biology,none,1
+193,14884,3,BIO375-01,Cell Biology and Genetics Lab,2,LAB,Karen S. Katula,08-JAN-2018 to 25-APR-2018,M,1300-1550,SULV 363,.WI,8,20,12,M,biology,none,1
+194,14887,3,BIO375-02,Cell Biology and Genetics Lab,2,LAB,John E. Tomkiel Dean,08-JAN-2018 to 25-APR-2018,M,1300-1550,SULV 365,.WI,10,20,10,M,biology,none,1
+195,14888,3,BIO375-03,Cell Biology and Genetics Lab,2,LAB,Ashley D. Herring,08-JAN-2018 to 25-APR-2018,T,1300-1550,SULV 363,.WI,1,20,19,M,biology,none,1
+196,14889,3,BIO375-04,Cell Biology and Genetics Lab,2,LAB,Maria Cristina D. Moreira,08-JAN-2018 to 25-APR-2018,T,1300-1550,SULV 365,.WI,8,20,12,M,biology,none,1
+197,14890,3,BIO375-05,Cell Biology and Genetics Lab,2,LAB,Mark D. Hens,08-JAN-2018 to 25-APR-2018,W,1300-1550,SULV 363,.WI,1,20,19,M,biology,none,1
+198,14891,3,BIO375-06,Cell Biology and Genetics Lab,2,LAB,Austin N. Craven,08-JAN-2018 to 25-APR-2018,W,1300-1550,SULV 365,.WI,8,20,12,M,biology,none,1
+199,14892,3,BIO375-07,Cell Biology and Genetics Lab,2,LAB,Ashley D. Herring,08-JAN-2018 to 25-APR-2018,R,1300-1550,SULV 363,.WI,2,20,18,M,biology,none,1
+200,14893,3,BIO375-08,Cell Biology and Genetics Lab,2,LAB,Maria Cristina D. Moreira,08-JAN-2018 to 25-APR-2018,R,1300-1550,SULV 365,.WI,11,20,9,M,biology,none,1
+242,15514,3,BIO554-01,Vascular Plant Systematics,4,LEL,Bruce K. Kirchoff,08-JAN-2018 to 25-APR-2018,T R,1230-1345,SULV 203,.ENV.SI,1,24,23,M,biology,none,1
+245,14163,3,BIO560-01,Symbiosis,3,LEC,Parke A. Rublee,08-JAN-2018 to 25-APR-2018,T R,1400-1515,SULV 218,.WI,-3,20,23,M,biology,none,1
+248,14164,3,BIO596-01,Moleculr Bio Apprch in Resrch,1,SEM,David L. Remington,08-JAN-2018 to 25-APR-2018,T,1400-1450,STON 217,.SI,-3,20,23,M,biology,none,1
+249,16712,3,BIO596-02,Moleculr Bio Apprch in Resrch,1,LEC,John J. Lepri,08-JAN-2018 to 25-APR-2018,M,1500-1550,SULV 103,.SI,1,24,23,M,biology,none,1
+250,15725,3,BIO596-03,Moleculr Bio Apprch- HUM EVOL,1,SEM,Malcolm D. Schug,08-JAN-2018 to 25-APR-2018,F,0900-0950,SULV 218,.SI,0,25,25,M,biology,none,1
+424,10047,,CHE101-01,Introductory Chemistry,3,LEC,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,EBER 250,.ENV.GNS.GPS,92,225,133,M,chemistry,none,1
+425,10048,,CHE103-01,General Descriptive Chem I,3,LEC,Mary A. Gerhard,08-JAN-2018 to 25-APR-2018,T R,1230-1345,SULV 201,.ENV.GNS.GPS.SUS,1,120,119,M,chemistry,none,1
+426,17116,30,CHE103-02,General Descriptive Chem I,3,WEB,Sarmad S. Hindo,08-JAN-2018 to 25-APR-2018,,,,.ENV.GNS.GPS.SUS,-1,39,40,M,chemistry,none,1
+427,17003,"29,30,141",CHE103-02D,General Descriptive Chem I,3,WEB,Sarmad S. Hindo,08-JAN-2018 to 25-APR-2018,,,,.ENV.GNS.GPS.SUS,-1,0,1,D,chemistry,none,1
+428,10049,,CHE104-01,General Descriptive Chem II,3,LEC,Mary A. Gerhard,08-JAN-2018 to 25-APR-2018,T R,0800-0915,SULV 101,.GNS.GPS,20,140,120,M,chemistry,none,1
+429,10050,,CHE104-02,General Descriptive Chem II,3,LEC,Mary A. Gerhard,08-JAN-2018 to 25-APR-2018,T R,1530-1645,SULV 101,.GNS.GPS,13,140,127,M,chemistry,none,1
+430,17388,,CHE104-03,General Descriptive Chem II,3,LEC,Pradyumna K. Pradhan,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,PETT 219,.GNS.GPS,18,40,22,M,chemistry,none,1
+431,10055,3,CHE110-01,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M,chemistry,none,1
+432,10056,3,CHE110-02,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M,chemistry,none,1
+433,10057,3,CHE110-03,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1900-2020,SULV 233,.ENV.GNS.GPS.SUS,1,21,20,M,chemistry,none,1
+434,10058,3,CHE110-04,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,1900-2020,SULV 233,.ENV.GNS.GPS.SUS,-1,3,4,M,chemistry,none,1
+435,10059,3,CHE110-05,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,0800-0920,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M,chemistry,none,1
+436,10060,3,CHE110-06,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,0800-0920,SULV 233,.ENV.GNS.GPS.SUS,11,24,13,M,chemistry,none,1
+437,10061,3,CHE110-07,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1100-1220,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M,chemistry,none,1
+438,10062,3,CHE110-08,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1100-1220,SULV 233,.ENV.GNS.GPS.SUS,2,24,22,M,chemistry,none,1
+439,10063,3,CHE110-09,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M,chemistry,none,1
+440,10064,3,CHE110-10,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M,chemistry,none,1
+441,10065,3,CHE110-11,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1700-1820,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M,chemistry,none,1
+442,10066,3,CHE110-12,Introductory Chemistry Lab,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,R,1700-1820,SULV 233,.ENV.GNS.GPS.SUS,13,24,11,M,chemistry,none,1
+443,10051,3,CHE111-01,General Chemistry I,3,LEC,Huiyuan Hu,08-JAN-2018 to 25-APR-2018,T R,1730-1845,SULV 201,.ENV.GNS.GPS.SUS,19,120,101,M,chemistry,none,3
+444,10052,3,CHE111-02,General Chemistry I,3,LEC,Huiyuan Hu,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,SULV 201,.ENV.GNS.GPS.SUS,4,120,116,M,chemistry,none,3
+445,12599,3,CHE111-03,General Chemistry I,3,LEC,Huiyuan Hu,08-JAN-2018 to 25-APR-2018,M W F,0900-0950,SULV 101,.ENV.GNS.GPS.SUS,-2,140,142,M,chemistry,none,3
+446,10067,3,CHE112-01,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1100-1220,SULV 355,.ENV.GNS.GPS.SUS,1,24,23,M,chemistry,none,3
+447,10068,3,CHE112-02,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1100-1220,SULV 355,.ENV.GNS.GPS.SUS,1,24,23,M,chemistry,none,3
+448,10069,3,CHE112-03,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M,chemistry,none,3
+449,10070,3,CHE112-04,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M,chemistry,none,3
+450,10071,3,CHE112-05,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1900-2020,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M,chemistry,none,3
+451,10072,3,CHE112-06,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,M,1900-2020,SULV 233,.ENV.GNS.GPS.SUS,2,24,22,M,chemistry,none,3
+452,10073,3,CHE112-07,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,0800-0920,SULV 355,.ENV.GNS.GPS.SUS,0,24,24,M,chemistry,none,3
+453,10074,3,CHE112-08,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,0800-0920,SULV 355,.ENV.GNS.GPS.SUS,0,24,24,M,chemistry,none,3
+454,10075,3,CHE112-09,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1100-1220,SULV 233,.ENV.GNS.GPS.SUS,-1,24,25,M,chemistry,none,3
+455,10076,3,CHE112-10,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1100-1220,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M,chemistry,none,3
+456,12600,3,CHE112-11,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M,chemistry,none,3
+457,12619,3,CHE112-12,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1400-1520,SULV 233,.ENV.GNS.GPS.SUS,0,24,24,M,chemistry,none,3
+458,13796,3,CHE112-13,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1700-1820,SULV 233,.ENV.GNS.GPS.SUS,1,24,23,M,chemistry,none,3
+459,13797,3,CHE112-14,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,T,1700-1820,SULV 233,.ENV.GNS.GPS.SUS,9,24,15,M,chemistry,none,3
+460,17379,3,CHE112-15,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,0800-0920,SULV 233,.ENV.GNS.GPS.SUS,14,24,10,M,chemistry,none,3
+461,17380,3,CHE112-16,General Chemistry Lab I,1,LAB,Spencer A. Russell,08-JAN-2018 to 25-APR-2018,W,0800-0920,SULV 233,.ENV.GNS.GPS.SUS,17,24,7,M,chemistry,none,3
+497,10102,"3,9",CHE402-01,Chemistry Seminar,1,SEM,Nicholas Oberlies,08-JAN-2018 to 25-APR-2018,M,1300-1350,SULV 435D,.SI,0,12,12,M,chemistry,none,1
+498,10101,"3,9",CHE402-02,Chemistry Seminar,1,SEM,Ethan W. Taylor,08-JAN-2018 to 25-APR-2018,T,1100-1150,SULV 435D,.SI,1,12,11,M,chemistry,none,1
+501,10109,3,CHE464-01,Physical Chemistry II Lab,1,LAB,Dennis A. Burnes,08-JAN-2018 to 25-APR-2018,M,1300-1650,SULV 354,.WI,11,16,5,M,chemistry,none,1
+521,10110,3,CHE533-01,Instrumental Analysis Lab,1,LAB,Timothy D. Ballard,08-JAN-2018 to 25-APR-2018,T,1400-1750,SULV 349,.WI,13,20,7,M,chemistry,none,1
+522,15783,3,CHE533-02,Instrumental Analysis Lab,1,LAB,Timothy D. Ballard,08-JAN-2018 to 25-APR-2018,R,1400-1750,SULV 349,.WI,16,20,4,M,chemistry,none,1
+525,10149,3,CHE558-01,Biochemistry Lab,1,LAB,Jason J. Reddick,08-JAN-2018 to 25-APR-2018,T,1230-1620,SULV 349,.WI,3,10,7,M,chemistry,none,1
+526,10150,3,CHE558-02,Biochemistry Lab,1,LAB,Pradyumna K. Pradhan,08-JAN-2018 to 25-APR-2018,W,1300-1650,SULV 349,.WI,1,10,9,M,chemistry,none,1
+527,10151,3,CHE558-03,Biochemistry Lab,1,LAB,Ethan W. Taylor,08-JAN-2018 to 25-APR-2018,R,1230-1350,SULV 349,.WI,2,10,8,M,chemistry,none,1
+528,14555,3,CHE558-04,Biochemistry Lab,1,LAB,Pradyumna K. Pradhan,08-JAN-2018 to 25-APR-2018,M,1300-1650,SULV 349,.WI,1,10,9,M,chemistry,none,1
+604,12134,,CCI201-01,Intro to Greek Civilization,3,LEC,David B. Wharton,08-JAN-2018 to 25-APR-2018,M W,1400-1515,FERG 100,.GHP.GL.GPM,10,110,100,M,classical civilizations,none,3
+605,10428,,CCI202-01,Intro to Roman Civilization,3,LEC,Derek S. Keyser,08-JAN-2018 to 25-APR-2018,M W,1530-1645,PETT 136,.GHP.GL.GPM,3,110,107,M,classical civilizations,none,3
+606,16877,,CCI202-02,Intro to Roman Civilization,3,LEC,Robyn L. LeBlanc,08-JAN-2018 to 25-APR-2018,T R,0930-1045,BRYN 160,.GHP.GL.GPM,1,110,109,M,classical civilizations,none,3
+607,10429,,CCI205-01,Mythology,3,LEC,Derek S. Keyser,08-JAN-2018 to 25-APR-2018,M W,1400-1515,LIBR 032,.GL.GLT,1,175,174,M,classical civilizations,none,2
+608,10430,,CCI205-02,Mythology,3,LEC,Hugh C. Parker,08-JAN-2018 to 25-APR-2018,M W,1530-1645,FERG 100,.GL.GLT,1,175,174,M,classical civilizations,none,2
+609,15294,,CCI205-03,Mythology,3,LEC,Daniel J. Schindler,08-JAN-2018 to 25-APR-2018,T R,1530-1645,LIBR 032,.GL.GLT,9,175,166,M,classical civilizations,none,2
+610,17190,,CCI205-04,Mythology,3,LEC,John E. Esposito,08-JAN-2018 to 25-APR-2018,W,1800-2100,SOEB 120,.GL.GLT,67,175,108,M,classical civilizations,none,2
+611,15295,,CCI212-01,Intro to Roman Archaeology,3,LEC,Robyn L. LeBlanc,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,BRYN 104,.ARC.GHP.GL.GPM,-1,45,46,M,classical civilizations,none,3
+612,15296,"14,37",CCI212-02,Intro to Roman Archaeology,3,LEC,Robyn L. LeBlanc,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,BRYN 104,.ARC.GHP.GL.GPM.HSS,0,5,5,M,classical civilizations,none,3
+613,16881,,CCI240-01,Ancient Warfare,3,LEC,Jonathan P. Zarecki,08-JAN-2018 to 25-APR-2018,M W,1530-1645,MHRA 1215,.GHP.GPM,-1,50,51,M,classical civilizations,none,2
+614,12928,,CCI305-01,Classical Tragedy,3,LEC,Derek S. Keyser,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,MHRA 1215,.GL.GLT,-2,50,52,M,classical civilizations,none,2
+615,16882,,CCI313-01,Archaeology of the Aegean,3,LEC,Joanne M. Murphy,08-JAN-2018 to 25-APR-2018,T R,0930-1045,COLE 319,.ARC.SI,4,25,21,M,classical civilizations,none,1
+616,16883,3,CCI323-01,World of Alexander the Great,3,LEC,Robyn L. LeBlanc,08-JAN-2018 to 25-APR-2018,T R,1530-1645,BRYN 112,.SI,0,25,25,M,classical civilizations,none,1
+617,16885,,CCI326-01,Age of Nero,3,LEC,Hugh C. Parker,08-JAN-2018 to 25-APR-2018,T R,1100-1215,COLE 319,.GL.GLT.WI,-1,25,26,M,classical civilizations,none,3
+663,10383,"3,168",ENG102-01,College Writing II,3,LEC,Jesse L. Gay,08-JAN-2018 to 25-APR-2018,M W F,0900-0950,SOEB 217,.GRD.SI,1,22,21,M,english,none,1
+664,10385,"3,168",ENG102-03,College Writing II,3,LEC,Emily M. Hall,08-JAN-2018 to 25-APR-2018,M W F,0900-0950,MHRA 2206,.GRD.SI,2,22,20,M,english,none,1
+665,14735,"3,168",ENG102-04,College Writing II,3,LEC,Emily M. Hall,08-JAN-2018 to 25-APR-2018,M W F,1000-1050,MHRA 2206,.GRD.SI,2,22,20,M,english,none,1
+666,14736,"3,168",ENG102-05,College Writing II,3,LEC,Michael R. Bedsole,08-JAN-2018 to 25-APR-2018,M W F,1000-1050,MHRA 2204,.GRD.SI,0,22,22,M,english,none,1
+667,14737,"3,168",ENG102-06,College Writing II,3,LEC,Michael R. Bedsole,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,BRYN 202,.GRD.SI,1,22,21,M,english,none,1
+668,14739,"3,168",ENG102-07,College Writing II,3,LEC,Richard J. Warren,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,MHRA 2206,.GRD.SI,1,22,21,M,english,none,1
+669,15794,"3,168",ENG102-08,College Writing II,3,LEC,Kayla M. Forrest,08-JAN-2018 to 25-APR-2018,M W F,1300-1350,MHRA 2208,.GRD.SI,3,22,19,M,english,none,1
+670,15795,"3,168",ENG102-09,College Writing II,3,LEC,Matthew C. Armstrong,08-JAN-2018 to 25-APR-2018,M W F,1400-1450,COLE 319,.GRD.SI,3,22,19,M,english,none,1
+671,16799,"3,168",ENG102-10,College Writing II,3,LEC,Carl P. Schlachte,08-JAN-2018 to 25-APR-2018,T R,0800-0915,MHRA 2204,.GRD.SI,2,22,20,M,english,none,1
+672,16800,"3,168",ENG102-11,College Writing II,3,LEC,Gianina M. Coturri Sorenson,08-JAN-2018 to 25-APR-2018,T R,1400-1515,MHRA 2208,.GRD.SI,1,22,21,M,english,none,1
+673,16801,"3,168",ENG102-12,College Writing II,3,LEC,Kristie L. Ellison,08-JAN-2018 to 25-APR-2018,T R,1230-1345,BRYN 106,.GRD.SI,-1,22,23,M,english,none,1
+674,16802,"3,168,334",ENG102-13,College Writing II for Arts,3,LEC,Matthew C. Carter,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,SOEB 108,.GRD.SI,11,22,11,M,english,none,1
+675,16803,"3,168,334",ENG102-14,College Writing II for Arts,3,LEC,Matthew C. Carter,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,MHRA 2204,.GRD.SI,8,22,14,M,english,none,1
+676,13964,3,ENG103-01,Essentls of Prof / Bus Writing,3,LEC,Bonnie T. Yarbrough,08-JAN-2018 to 25-APR-2018,T R,1730-1845,MHRA 2209,.GRD.SI.WI,-2,22,24,M,english,none,2
+677,10386,,ENG104-01,Approach to Literature,3,LEC,Kellyn P. Luna,08-JAN-2018 to 25-APR-2018,M W F,1400-1450,SOEB 108,.GLT,1,36,35,M,english,none,1
+678,10387,,ENG104-02,Approach to Literature,3,LEC,Kellyn P. Luna,08-JAN-2018 to 25-APR-2018,M W F,1500-1550,SOEB 108,.GLT,1,36,35,M,english,none,1
+679,10388,,ENG104-03,Approach to Literature,3,LEC,Michelle S. Reed,08-JAN-2018 to 25-APR-2018,T R,1100-1215,SOEB 106,.GLT,0,36,36,M,english,none,1
+680,12700,,ENG104-04,Approach to Literature,3,LEC,Ross M. Garrison,08-JAN-2018 to 25-APR-2018,T R,1530-1645,MHRA 1214,.GLT.WI,0,25,25,M,english,none,2
+681,13965,,ENG104-05,Approach to Literature,3,LEC,Ross M. Garrison,08-JAN-2018 to 25-APR-2018,T R,1730-1845,MHRA 1210,.GLT.WI,1,25,24,M,english,none,2
+682,17090,,ENG104-06,Approach to Literature,3,LEC,Shawn M. Delgado,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,GRAM 310,.GLT.WI,0,25,25,M,english,none,2
+683,17098,,ENG104-07,Approach to Literature,3,LEC,Shawn M. Delgado,08-JAN-2018 to 25-APR-2018,M W F,1300-1350,GRAM 310,.GLT.WI,0,25,25,M,english,none,2
+684,12701,,ENG105-01,Introduction to Narrative,3,LEC,Erik T. Cofer,08-JAN-2018 to 25-APR-2018,M W F,0800-0850,COLE 319,.GLT.WI,0,25,25,M,english,none,2
+685,12702,,ENG105-02,Introduction to Narrative,3,LEC,Erik T. Cofer,08-JAN-2018 to 25-APR-2018,M W F,0900-0950,COLE 319,.GLT.WI,-1,25,26,M,english,none,2
+686,13966,,ENG105-03,Introduction to Narrative,3,LEC,Jesse L. Gay,08-JAN-2018 to 25-APR-2018,M W F,1000-1050,BRYN 205,.GLT,0,36,36,M,english,none,1
+687,14745,,ENG105-04,Introduction to Narrative,3,LEC,Cody H. Lee,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,COLE 319,.GLT.SI,0,25,25,M,english,none,2
+688,12703,,ENG105-05,Introduction to Narrative,3,LEC,Cody H. Lee,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,COLE 319,.GLT.SI,0,25,25,M,english,none,2
+689,10389,,ENG105-06,Introduction to Narrative,3,LEC,Jeremy P. South,08-JAN-2018 to 25-APR-2018,M W F,1500-1550,SOEB 208,.GLT,13,36,23,M,english,none,1
+690,10390,,ENG105-07,Introduction to Narrative,3,LEC,Marc R. Keith,08-JAN-2018 to 25-APR-2018,T R,0930-1045,MHRA 2211,.GLT,0,36,36,M,english,none,1
+691,13967,,ENG105-08,Introduction to Narrative,3,LEC,Beth K. Miller Ball,08-JAN-2018 to 25-APR-2018,T R,1400-1515,MHRA 2209,.GLT,0,36,36,M,english,none,1
+692,13614,,ENG105-09,Introduction to Narrative,3,LEC,Beth K. Miller Ball,08-JAN-2018 to 25-APR-2018,T R,1530-1645,BRYN 202,.GLT,0,36,36,M,english,none,1
+693,13553,30,ENG105-10,Introduction to Narrative,3,WEB,Bryan T. McMillan,08-JAN-2018 to 25-APR-2018,,,,.GLT,1,32,31,M,english,none,1
+694,16997,"29,30,141",ENG105-10D,Introduction to Narrative,3,WEB,Bryan T. McMillan,08-JAN-2018 to 25-APR-2018,,,,.GLT,-2,0,2,D,english,none,1
+695,13554,30,ENG105-11,Introduction to Narrative,3,WEB,Jessica D. Ward,08-JAN-2018 to 25-APR-2018,,,,.GLT,0,28,28,M,english,none,1
+696,16998,"29,30,141",ENG105-11D,Introduction to Narrative,3,WEB,Jessica D. Ward,08-JAN-2018 to 25-APR-2018,,,,.GLT,-7,0,7,D,english,none,1
+697,13615,30,ENG105-12,Introduction to Narrative,3,WEB,Dusty K. Ross,08-JAN-2018 to 25-APR-2018,,,,.GLT,1,30,29,M,english,none,1
+698,16999,"29,30,141",ENG105-12D,Introduction to Narrative,3,WEB,Dusty K. Ross,08-JAN-2018 to 25-APR-2018,,,,.GLT,-6,0,6,D,english,none,1
+699,13969,30,ENG105-13,Introduction to Narrative,3,WEB,Eileen M. Totter,08-JAN-2018 to 25-APR-2018,,,,.GLT,1,28,27,M,english,none,1
+700,17000,"29,30,141",ENG105-13D,Introduction to Narrative,3,WEB,Eileen M. Totter,08-JAN-2018 to 25-APR-2018,,,,.GLT,-7,0,7,D,english,none,1
+701,16863,30,ENG105-14,Introduction to Narrative,3,WEB,Gary Lim,08-JAN-2018 to 25-APR-2018,,,,.GLT,0,30,30,M,english,none,1
+702,17317,"29,30,141",ENG105-14D,Introduction to Narrative,3,WEB,Gary Lim,08-JAN-2018 to 25-APR-2018,,,,.GLT,-1,0,1,D,english,none,1
+703,17452,"29,30,141",ENG105-15D,Introduction to Narrative,3,WEB,Joseph A. George,28-FEB-2018 to 25-APR-2018,,,,.GLT,0,35,35,D,english,none,1
+704,16965,"29,30,105",ENG105-81D,Introduction to Narrative,3,WEB,Noelle A. Morrissette,09-DEC-2017 to 18-JAN-2018,,,,.GLT,2,35,33,D,english,none,1
+705,10391,,ENG106-01,Introduction to Poetry,3,LEC,Meghan H. McGuire,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,SOEB 219,.GLT.WI,0,25,25,M,english,none,2
+706,10392,,ENG106-02,Introduction to Poetry,3,LEC,Meghan H. McGuire,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,SOEB 212,.GLT.WI,0,25,25,M,english,none,2
+707,14183,,ENG106-03,Introduction to Poetry,3,LEC,Michael R. Bedsole,08-JAN-2018 to 25-APR-2018,M W,1400-1515,BRYN 132,.GLT,1,36,35,M,english,none,1
+708,14232,,ENG106-04,Introduction to Poetry,3,LEC,Michael R. Bedsole,08-JAN-2018 to 25-APR-2018,M W,1530-1645,MHRA 2209,.GLT,-1,36,37,M,english,none,1
+709,13970,,ENG107-01,Introduction to Drama,3,LEC,Benjamin S. Compton,08-JAN-2018 to 25-APR-2018,M W F,1500-1550,MHRA 2207,.GLT,16,36,20,M,english,none,1
+710,16836,,ENG107-02,Introduction to Drama,3,LEC,Lilit Berberyan,08-JAN-2018 to 25-APR-2018,T R,1400-1515,BRYN 206,.GLT,6,36,30,M,english,none,1
+711,16837,,ENG107-03,Introduction to Drama,3,LEC,Lilit Berberyan,08-JAN-2018 to 25-APR-2018,T R,1530-1645,BRYN 206,.GLT,6,36,30,M,english,none,1
+712,14234,,ENG108-01,Shakespearean Afterlives,3,LEC,Matthew C. Carter,08-JAN-2018 to 25-APR-2018,M W F,1400-1450,SOEB 106,.GLT,25,36,11,M,english,none,1
+713,15818,,ENG108-03,Expatriates in Paris,3,LEC,Kayla M. Forrest,08-JAN-2018 to 25-APR-2018,M W,1530-1645,BRYN 204,.GLT,15,36,21,M,english,none,1
+714,16840,,ENG108-04,Transatlantic Romanticism,3,LEC,Emily J. Dolive,08-JAN-2018 to 25-APR-2018,T R,0800-0915,BRYN 121,.GLT,19,36,17,M,english,none,1
+715,16841,,ENG108-05,Transatlantic Romanticism,3,LEC,Emily J. Dolive,08-JAN-2018 to 25-APR-2018,T R,0930-1045,BRYN 121,.GLT,0,27,27,M,english,none,1
+716,16866,,ENG108-06,Topics: Literature of A.I.,3,LEC,Nancy G. Bucknall,08-JAN-2018 to 25-APR-2018,T R,0930-1045,BRYN 112,.GLT.WI,-2,25,27,M,english,none,2
+717,14787,,ENG109-01,Intro to Shakespeare,3,LEC,Lauren B. Shook,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,MHRA 2207,.GLT.WI,0,25,25,M,english,none,2
+718,16842,,ENG109-02,Intro to Shakespeare,3,LEC,Lauren B. Shook,08-JAN-2018 to 25-APR-2018,M W F,1300-1350,MHRA 1210,.GLT.WI,1,25,24,M,english,none,2
+719,16868,,ENG209-01,Tpc Nonwest Lit:Postcolnl Dev,3,LEC,Shana J. Scudder,08-JAN-2018 to 25-APR-2018,M W F,1000-1050,BRYN 204,.GLT.GN.IGS,5,36,31,M,english,none,2
+720,16870,,ENG209-02,Tpc Nonwest Lit:Postcolnl Dev,3,LEC,Shana J. Scudder,08-JAN-2018 to 25-APR-2018,M W F,0900-0950,BRYN 204,.GLT.GN.IGS,9,36,27,M,english,none,2
+721,16970,"29,30,105",ENG209-81D,Tpc Nonwest Lit:Postcolnl Dev,3,WEB,Joseph A. George,09-DEC-2017 to 18-JAN-2018,,,,.GLT.GN.IGS,2,35,33,D,english,none,2
+722,16929,,ENG210-01,Literature and the Arts,3,LEC,Crystal L. Matey,08-JAN-2018 to 25-APR-2018,M W,1400-1515,FERG 322,.GLT,2,36,34,M,english,none,1
+723,16847,,ENG210-02,Literature and the Arts,3,LEC,Crystal L. Matey,08-JAN-2018 to 25-APR-2018,M W,1530-1645,BRYN 202,.GLT,0,36,36,M,english,none,1
+724,16871,10,ENG211-01,British Authors:Med-18th Cntry,3,LEC,Gary Lim,08-JAN-2018 to 25-APR-2018,T R,1230-1345,BRYN 121,.GLT,1,36,35,M,english,none,1
+725,16872,10,ENG211-02,British Authors:Med-18th Cntry,3,LEC,Gary Lim,08-JAN-2018 to 25-APR-2018,T R,0930-1045,BRYN 205,.GLT,9,36,27,M,english,none,1
+726,10397,10,ENG212-01,British Authors: Romantic-Mod,3,LEC,Ben Clarke,08-JAN-2018 to 25-APR-2018,T R,1400-1515,SOEB 108,.GLT,3,36,33,M,english,none,1
+727,11743,,ENG219-01,Journlsm I: Fund of Newswritng,3,LEC,Rosemary Roberts,08-JAN-2018 to 25-APR-2018,T,1400-1650,GRAM 207,.ENV.WI,1,20,19,M,english,none,1
+728,14905,,ENG219-02,Journlsm I: Fund of Newswritng,3,LEC,Elma K. Sabo,08-JAN-2018 to 25-APR-2018,W,1800-2050,GRAM 202,.ENV.WI,1,20,19,M,english,none,1
+735,15094,,ENG230-01,Writing/Workplace/Public Aud,3,LEC,Jessica M. Van Rheenen,08-JAN-2018 to 25-APR-2018,T R,1400-1515,SOEB 219,.GRD.SI,3,25,22,M,english,none,1
+736,10399,10,ENG251-01,Maj Am Auth: Colonial-Romantic,3,LEC,Maria C. Sanchez,08-JAN-2018 to 25-APR-2018,M W F,0900-0950,BRYN 121,.GLT,9,36,27,M,english,none,1
+737,10405,10,ENG252-01,Maj Am Auth: Realist to Modern,3,LEC,Noelle A. Morrissette,08-JAN-2018 to 25-APR-2018,T R,0930-1045,SOEB 110,.GLT,1,36,35,M,english,none,1
+738,16874,,ENG290-01,Rhetoric of Social Movements,3,LEC,Nancy A. Myers,08-JAN-2018 to 25-APR-2018,T R,0800-0915,MHRA 1213,.GL.IGS,26,36,10,M,english,none,1
+739,10406,8,ENG303-01,Critical Approaches Study Lit,3,LEC,Cristian Moraru,08-JAN-2018 to 25-APR-2018,M W,1530-1645,MHRA 1209,.SI,0,25,25,M,english,none,1
+740,10407,8,ENG303-02,Critical Approaches Study Lit,3,LEC,Cristian Moraru,08-JAN-2018 to 25-APR-2018,M W,1700-1815,MHRA 1210,.SI,18,25,7,M,english,none,1
+741,14909,8,ENG303-03,Critical Approaches Study Lit,3,LEC,Ben Clarke,08-JAN-2018 to 25-APR-2018,T R,1100-1215,NMOR 331,.WI,0,25,25,M,english,none,1
+742,16876,3,ENG304-01,History and Theory of Rhetoric,3,LEC,Stephen R. Yarbrough,08-JAN-2018 to 25-APR-2018,T R,1100-1215,MHRA 1204,.GHP.GPM.WI,0,25,25,M,english,none,3
+743,13205,168,ENG305-01,Contemporary Rhetoric,3,LEC,Heather B. Adams,08-JAN-2018 to 25-APR-2018,M W F,1400-1450,MHRA 1207,.SI.WI,0,25,25,M,english,none,2
+744,10408,,ENG305-02,Contemporary Rhetoric,3,LEC,Elizabeth Chiseri-Strater,08-JAN-2018 to 25-APR-2018,T R,1230-1345,MHRA 1213,.SI.WI,-1,25,26,M,english,none,2
+745,16878,,ENG306-01,Digital Rhetoric,3,LEC,Aaron K. Beveridge,08-JAN-2018 to 25-APR-2018,M W F,1000-1050,SOEB 219,.WI,0,25,25,M,english,none,1
+746,12115,1,ENG324-01,Tching Wrting Ele & Mdl Grdes,3,LEC,Jeanie M. Reynolds,08-JAN-2018 to 25-APR-2018,T R,0930-1045,PETT 217,.WI,19,25,6,M,english,none,1
+748,14912,3,ENG326-01,Writing Poetry: Intermediate,3,LEC,Emilia A. Phillips,08-JAN-2018 to 25-APR-2018,M W,1400-1515,MHRA 1208,.SI,3,15,12,M,english,none,1
+749,14938,"3,26",ENG327-02,Writing for Prfssnls/Entrprnrs,3,LEC,Bonnie T. Yarbrough,08-JAN-2018 to 25-APR-2018,T R,1530-1645,MHRA 1207,.ENV.WI,0,20,20,M,english,none,1
+750,14913,"3,26,30",ENG327-03,Writing for Prfssnls/Entrprnrs,3,WEB,Bonnie T. Yarbrough,08-JAN-2018 to 25-APR-2018,,,,.ENV.WI,1,20,19,M,english,none,1
+751,17001,"3,26,29,30,141",ENG327-03D,Writing for Prfssnls/Entrprnrs,3,WEB,Bonnie T. Yarbrough,08-JAN-2018 to 25-APR-2018,,,,.ENV.WI,-5,0,5,D,english,none,1
+752,16892,"3,26,30",ENG327-04,Writing for Prfssnls/Entrprnrs,3,WEB,Bonnie T. Yarbrough,08-JAN-2018 to 25-APR-2018,,,,.ENV.WI,0,24,24,M,english,none,1
+753,17016,"3,26,29,30,141",ENG327-05D,Writing for Prfssnls/Entrprnrs,3,WEB,Sarah A. Krive,08-JAN-2018 to 25-APR-2018,,,,.ENV.WI,3,25,22,D,english,none,1
+754,16971,"3,26,29,30,105",ENG327-81D,Writing for Prfssnls/Entrprnrs,3,WEB,Bonnie T. Yarbrough,09-DEC-2017 to 18-JAN-2018,,,,.ENV.WI,1,25,24,D,english,none,1
+757,14918,,ENG340-01,Shakespeare: Later Plays,3,LEC,Jennifer M. Park,08-JAN-2018 to 25-APR-2018,T R,0800-0915,MHRA 1215,.GLT,5,36,31,M,english,none,1
+758,16920,,ENG340-02,Shakespeare: Later Plays,3,LEC,Jennifer M. Park,08-JAN-2018 to 25-APR-2018,T R,0930-1045,MHRA 1214,.GLT,1,36,35,M,english,none,1
+762,16888,,ENG360-01,18th-C Search for Happiness,3,LEC,Jennifer M. Keith,08-JAN-2018 to 25-APR-2018,T R,1700-1815,MHRA 1207,.SI,1,25,24,M,english,none,1
+763,15098,,ENG363-01,Rhetoric of the Body,3,LEC,Carine R. Applegarth,08-JAN-2018 to 25-APR-2018,T R,1230-1345,SOEB 217,.SI.WGS,0,25,25,M,english,none,1
+765,14919,168,ENG372-01,Early American Literature,3,LEC,Karen A. Weyler,08-JAN-2018 to 25-APR-2018,T R,1230-1345,MHRA 1211,.WI,0,25,25,M,english,none,1
+766,10426,,ENG376-01,African Am Writers After 1920s,3,LEC,Sallyann H. Ferguson,08-JAN-2018 to 25-APR-2018,M W,1400-1515,MHRA 2209,.ADS.WI,1,25,24,M,english,none,1
+767,10427,1,ENG390-01,Writing Ctr Theory / Practice,3,LEC,Jennifer L. Whitaker,08-JAN-2018 to 25-APR-2018,T R,0800-0915,CURY 331,.WI,4,15,11,M,english,none,1
+768,13601,1,ENG391-01,Stds in Digital Studio Theory,3,LEC,Vaughn R. Stewart,08-JAN-2018 to 25-APR-2018,T R,1230-1345,LIBR 064,.SI.WI,13,15,2,M,english,none,2
+879,10928,,FRE101-01,Beginning French I,3,LEC,Amy L. Brabeck,08-JAN-2018 to 25-APR-2018,M W F,0800-0850,MHRA 1211,.GCP.GL,3,25,22,M,french,none,1
+880,14172,,FRE101-02,Beginning French I,3,WEB,Amy L. Brabeck,08-JAN-2018 to 25-APR-2018,,,,.GCP.GL,2,27,25,M,french,none,1
+881,14273,"29,30,141,352",FRE101-02D,Beginning French I,3,WEB,Amy L. Brabeck,08-JAN-2018 to 25-APR-2018,,,,.GCP.GL,-2,3,5,D,french,none,1
+882,10929,,FRE101-03,Beginning French I,3,LEC,Amy L. Brabeck,08-JAN-2018 to 25-APR-2018,M W F,1000-1050,MHRA 1209,.GCP.GL,1,25,24,M,french,none,1
+883,10930,,FRE101-04,Beginning French I,3,LEC,Amy L. Brabeck,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,MHRA 2209,.GCP.GL,6,25,19,M,french,none,1
+884,11470,,FRE101-05,Beginning French I,3,LEC,Genevieve O. Waite,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,MHRA 1206,.GCP.GL,0,25,25,M,french,none,1
+885,11472,,FRE101-06,Beginning French I,3,LEC,Genevieve O. Waite,08-JAN-2018 to 25-APR-2018,M W F,1300-1350,MHRA 1208,.GCP.GL,0,25,25,M,french,none,1
+886,12870,,FRE101-07,Beginning French I,3,LEC,Joshua C. Lunsford,08-JAN-2018 to 25-APR-2018,M W F,1400-1450,MHRA 1211,.GCP.GL,1,25,24,M,french,none,1
+887,15136,,FRE101-08,Beginning French I,3,LEC,William S. Mouelle Ebongue Makolle,08-JAN-2018 to 25-APR-2018,M W F,1500-1550,SOEB 110,.GCP.GL,12,25,13,M,french,none,1
+904,10938,3,FRE241-01,Interm French:Culture Business,3,LEC,Peter T. Dola,08-JAN-2018 to 25-APR-2018,M W,1700-1815,CURY 332,.GCP.GFL.GL.SI,6,25,19,M,french,none,2
+905,15604,3,FRE303-01,Francophone Cultures: An Intro,3,SEM,Shanaaz Mohammed,08-JAN-2018 to 25-APR-2018,M W F,1200-1250,MHRA 2211,.WI,2,25,23,M,french,none,1
+907,15194,3,FRE353-01,Survey of French Literature,3,LEC,Roberto E. Campo,08-JAN-2018 to 25-APR-2018,T R,1100-1215,MHRA 1210,.IGS.WI,8,20,12,M,french,none,1
+909,13899,,HIS204-01,History of Africa from 1870,3,LEC,Colleen Kriger,08-JAN-2018 to 25-APR-2018,T R,0930-1045,MHRA 1215,.ADS.GHP.GMO.GN.IGS,0,58,58,M,history,none,3
+910,10016,,HIS206-01,Tpcs:Globl Developmnts to 1500,3,LEC,Stephen Q. Ruzicka,08-JAN-2018 to 25-APR-2018,M W,1000-1050,FERG 100,.GHP.GL.GPM,1,20,19,M,history,none,3
+911,13415,,HIS206-02,Tpcs:Globl Developmnts to 1500,3,LEC,Stephen Q. Ruzicka,08-JAN-2018 to 25-APR-2018,M W,1000-1050,FERG 100,.GHP.GL.GPM,0,20,20,M,history,none,3
+912,13900,,HIS206-03,Tpcs:Globl Developmnts to 1500,3,LEC,Stephen Q. Ruzicka,08-JAN-2018 to 25-APR-2018,M W,1000-1050,FERG 100,.GHP.GL.GPM,0,20,20,M,history,none,3
+913,16065,,HIS206-04,Tpcs:Globl Developmnts to 1500,3,LEC,Stephen Q. Ruzicka,08-JAN-2018 to 25-APR-2018,M W,1000-1050,FERG 100,.GHP.GL.GPM,8,20,12,M,history,none,3
+914,10017,,HIS207-01,Tpcs:Islamic Civn 600-1200 CE,3,LEC,Alexander A. Eger,08-JAN-2018 to 25-APR-2018,F,1200-1250,BRYN 110,.GHP.GN.GPM.IGS,0,22,22,M,history,none,3
+915,14215,,HIS207-02,Tpcs: Islamic Civn 600-1200 CE,3,LEC,Alexander A. Eger,08-JAN-2018 to 25-APR-2018,M W,1300-1350,BRYN 111,.GHP.GN.GPM.IGS,0,22,22,M,history,none,3
+916,16096,,HIS207-03,Tpcs: N & E Africa Middle Ages,3,LEC,Ian M. Michie,08-JAN-2018 to 25-APR-2018,T R,0800-0915,BRYN 105,.GHP.GN.GPM.IGS,12,40,28,M,history,none,3
+917,17325,,HIS207-04,Tpcs:Premdn Cultures InContact,3,WEB,Sarah E. McCartney,08-JAN-2018 to 25-APR-2018,,,,.GHP.GN.GPM.IGS,-3,32,35,M,history,none,3
+918,17340,"29,30,141",HIS207-04D,Tpcs:Premdn CulturesIn Contact,3,WEB,Sarah E. McCartney,08-JAN-2018 to 25-APR-2018,,,,.GHP.GN.GPM.IGS,-15,0,15,D,history,none,3
+919,13362,,HIS208-01,Tpcs:Revolutions in World Hist,3,LEC,Mark A. Moser,08-JAN-2018 to 25-APR-2018,T R,1230-1345,MHRA 1214,.GHP.GL.GMO.IGS,-1,58,59,M,history,none,3
+920,13363,,HIS208-02,Tpcs:Revolutions in World Hist,3,LEC,Mark A. Moser,08-JAN-2018 to 25-APR-2018,T R,1530-1645,MHRA 1215,.GHP.GL.GMO.IGS,3,50,47,M,history,none,3
+921,10018,,HIS209-01,Tpcs:Pacific in Modern World,3,WEB,Eric O. Oakley,08-JAN-2018 to 25-APR-2018,,,,.GHP.GMO.GN.IGS,1,50,49,M,history,none,3
+922,10019,,HIS211-01,The United States to 1865,3,LEC,Watson W. Jennison,08-JAN-2018 to 25-APR-2018,M W,1100-1150,BRYN 160,.GHP.GMO.WI,0,20,20,M,history,none,3
+923,13901,,HIS211-02,The United States to 1865,3,LEC,Watson W. Jennison,08-JAN-2018 to 25-APR-2018,M W,1100-1150,BRYN 160,.GHP.GMO.WI,0,20,20,M,history,none,3
+924,13902,,HIS211-03,The United States to 1865,3,LEC,Watson W. Jennison,08-JAN-2018 to 25-APR-2018,M W,1100-1150,BRYN 160,.GHP.GMO.WI,0,20,20,M,history,none,3
+925,13903,,HIS211-04,The United States to 1865,3,LEC,Watson W. Jennison,08-JAN-2018 to 25-APR-2018,M W,1100-1150,BRYN 160,.GHP.GMO.WI,0,20,20,M,history,none,3
+926,14642,,HIS211-05,The United States to 1865,3,LEC,Watson W. Jennison,08-JAN-2018 to 25-APR-2018,M W,1100-1150,BRYN 160,.GHP.GMO.WI,0,20,20,M,history,none,3
+927,14643,,HIS211-06,The United States to 1865,3,LEC,Watson W. Jennison,08-JAN-2018 to 25-APR-2018,M W,1100-1150,BRYN 160,.GHP.GMO.WI,0,20,20,M,history,none,3
+928,16072,,HIS211-07,The United States to 1865,3,LEC,Arlen M. Hanson,08-JAN-2018 to 25-APR-2018,T R,0800-0915,SOEB 202,.GHP.GMO,4,40,36,M,history,none,2
+929,10020,,HIS212-01,The US Since 1865,3,LEC,Ethan A. Moore,08-JAN-2018 to 25-APR-2018,M W F,0800-0850,MHRA 1215,.GHP.GMO,28,40,12,M,history,none,2
+930,10021,,HIS212-02,The US Since 1865,3,LEC,Kimberly M. Cheek,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,BRYN 105,.GHP.GMO,-3,40,43,M,history,none,2
+931,10022,,HIS212-03,The US Since 1865,3,LEC,Anderson R. Rouse,08-JAN-2018 to 25-APR-2018,M W,1530-1645,BRYN 132,.GHP.GMO,0,40,40,M,history,none,2
+932,13904,,HIS212-04,The US Since 1865,3,LEC,Matthew A. Larson,08-JAN-2018 to 25-APR-2018,T R,0800-0915,MHRA 1214,.GHP.GMO,20,40,20,M,history,none,2
+933,16875,,HIS213-01,Tpcs:Technology Amercn History,3,LEC,Lisa C. Tolbert,08-JAN-2018 to 25-APR-2018,T R,1530-1645,MHRA 1204,.GHP.WI,0,25,25,M,history,none,2
+934,14645,,HIS216-01,Civilizations of Asia,3,LEC,James A. Anderson,08-JAN-2018 to 25-APR-2018,T R,1400-1515,MHRA 1215,.GHP.GMO.GN.IGS,3,58,55,M,history,none,3
+935,10023,,HIS217-01,The World in the 20th Century,3,WEB,Mark A. Moser,08-JAN-2018 to 25-APR-2018,,,,.GHP.GMO.GN.IGS,0,47,47,M,history,none,3
+936,17247,"29,30,141",HIS217-01D,The World in the 20th Century,3,WEB,Mark A. Moser,08-JAN-2018 to 25-APR-2018,,,,.GHP.GMO.GN.IGS,-10,0,10,D,history,none,3
+937,13094,,HIS217-02,The World in the 20th Century,3,WEB,Hannah G. Shotwell,08-JAN-2018 to 25-APR-2018,,,,.GHP.GMO.GN.IGS,2,43,41,M,history,none,3
+938,17381,"29,30,141",HIS217-02D,The World in the 20th Century,3,WEB,Hannah G. Shotwell,08-JAN-2018 to 25-APR-2018,,,,.GHP.GMO.GN.IGS,-7,0,7,D,history,none,3
+939,14646,,HIS217-03,The World in the 20th Century,3,LEC,Christopher W. Davis,08-JAN-2018 to 25-APR-2018,T R,1700-1815,MHRA 1214,.GHP.GMO.GN.IGS,4,40,36,M,history,none,3
+940,10024,,HIS218-01,The World in the 20th Century,3,LEC,David M. Wight,08-JAN-2018 to 25-APR-2018,T R,0930-1045,SOEB 224,.GHP.GMO.GN.IGS,0,58,58,M,history,none,3
+941,16095,,HIS218-02,The World in the 20th Century,3,LEC,Matthew D. Hintz,08-JAN-2018 to 25-APR-2018,M W,1530-1645,BRYN 213,.GHP.GMO.GN.IGS,-2,40,42,M,history,none,3
+942,13905,,HIS218-03,The World in the 20th Century,3,LEC,Brian W. Suttell,08-JAN-2018 to 25-APR-2018,M W F,0800-0850,MHRA 1214,.GHP.GMO.GN.IGS,23,40,17,M,history,none,3
+943,17414,"29,30,141",HIS218-11D,The World in the 20th Century,3,WEB,Timothy M. Reagin,28-FEB-2018 to 25-APR-2018,,,,.GHP.GMO.GN,-2,50,52,D,history,none,2
+944,15766,"29,30,105",HIS218-81D,The World in the 20th Century,3,WEB,Mark A. Moser,09-DEC-2017 to 18-JAN-2018,,,,.GHP.GMO.GN.IGS,2,50,48,D,history,none,3
+945,10025,,HIS221-01,Medieval Legacy,3,LEC,Caitlin M. Saraphis,08-JAN-2018 to 25-APR-2018,T R,0930-1045,PETT 219,.GHP.GL.GPM,0,58,58,M,history,none,3
+946,13364,,HIS222-01,Europe 1400-1789,3,LEC,Jodi E. Bilinkoff,08-JAN-2018 to 25-APR-2018,M W,1300-1350,BRYN 202,.GHP.GL.GPM,0,22,22,M,history,none,3
+947,14185,,HIS222-02,Europe 1400-1789,3,LEC,Jodi E. Bilinkoff,08-JAN-2018 to 25-APR-2018,F,1200-1250,BRYN 106,.GHP.GL.GPM,1,22,21,M,history,none,3
+948,10026,,HIS223-01,"European Revolutions,1789-1989",3,LEC,Jeff W. Jones,08-JAN-2018 to 25-APR-2018,T R,1100-1215,BRYN 212,.GHP.GL.GMO.IGS,5,50,45,M,history,none,3
+949,16097,,HIS240-01,Latin America since 1810,3,LEC,Peter B. Villella,08-JAN-2018 to 25-APR-2018,T R,1100-1215,BRYN 213,.GHP.GMO.GN.IGS,4,50,46,M,history,none,3
+950,10288,,HIS302-01,Race and Segregation,3,LEC,Watson W. Jennison,08-JAN-2018 to 25-APR-2018,M W,1400-1515,BRYN 202,.ADS.GMO,0,36,36,M,history,none,1
+951,16098,,HIS320-01,"Hist of Mexico,Central America",3,LEC,Peter B. Villella,08-JAN-2018 to 25-APR-2018,T R,1400-1515,PETT 224,.GMO.GN.IGS,0,36,36,M,history,none,2
+952,16099,,HIS323-01,American Indians and Nature,3,LEC,Warren G. O'Brien,08-JAN-2018 to 25-APR-2018,T R,1400-1515,MHRA 1214,.ENV.GHP.GN,1,43,42,M,history,none,1
+954,16102,,HIS338-01,"Civl War, Reconstrctn, Reunion",3,LEC,Mark E. Elliott,08-JAN-2018 to 25-APR-2018,T R,1100-1215,SOEB 219,.SI,1,25,24,M,history,none,1
+957,10289,,HIS347-01,History of North Carolina,3,LEC,Christine R. Flood,08-JAN-2018 to 25-APR-2018,W,1830-2120,MHRA 1210,.SI,4,25,21,M,history,none,1
+962,10394,3,HIS391-01,Historical Skills and Methods,3,SEM,Thomas F. Jackson,08-JAN-2018 to 25-APR-2018,M W,1400-1515,MHRA 1204,.RI.WI,15,25,10,M,history,none,1
+963,13395,3,HIS391-02,Historical Skills and Methods,3,SEM,Richard E. Barton,08-JAN-2018 to 25-APR-2018,T R,1230-1345,MHRA 2204,.RI.WI,0,25,25,M,history,none,1
+964,13910,,HIS392-01,Holocaust History / Meaning,3,LEC,Joseph Ross,08-JAN-2018 to 25-APR-2018,T R,1830-1945,MHRA 2211,.GL.IGS,0,36,36,M,history,none,1
+967,10960,"3,8",HIS430-01,Historcl Methds-Soc Stud Tchrs,3,LEC,Lisa C. Tolbert,08-JAN-2018 to 25-APR-2018,M W,1400-1515,BRYN 121,.WI,10,30,20,M,history,none,1
+972,10395,"1,3",HIS511A-01,Sem His Rch Wrtng,3,SEM,Lisa C. Tolbert,08-JAN-2018 to 25-APR-2018,M,1830-2120,MHRA 1211,.SI.WI,3,20,17,M,history,none,2
+973,16117,"1,3",HIS511C-01,Seminar in His Resrch / Wrtng,3,SEM,Linda M. Rupert,08-JAN-2018 to 25-APR-2018,T,1530-1820,MHRA 1209,.SI.WI,9,20,11,M,history,none,2
+1081,10475,"3,168",MAT191-01,Calculus I,3,LEC,Dan Yasaki,08-JAN-2018 to 25-APR-2018,M W F,1400-1450,PETT 313,.GMT,-1,35,36,M,math,MAT151,2
+1082,10476,"3,168",MAT191-02,Calculus I,3,LEC,Brett A. Tangedal,08-JAN-2018 to 25-APR-2018,M W F,1100-1150,PETT 223,.GMT,2,35,33,M,math,MAT151,2
+1083,10477,"3,168",MAT191-03,Calculus I,3,LEC,Elliott Z. Hollifield,08-JAN-2018 to 25-APR-2018,T R,0930-1045,PETT 313,.GMT,8,35,27,M,math,MAT151,2
+1084,13250,"3,168",MAT191-04,Calculus I,3,LEC,Carol E. Seaman,08-JAN-2018 to 25-APR-2018,T R,1100-1215,PETT 313,.GMT,10,35,25,M,math,MAT151,2
+1085,15850,"3,168",MAT191-05,Calculus I,3,LEC,Carol E. Seaman,08-JAN-2018 to 25-APR-2018,T R,1400-1515,SULV 103,.GMT,5,35,30,M,math,MAT151,2
+1122,10519,30,PHI111-01,Introduction to Philosophy,3,WEB,Frances Bottenberg,08-JAN-2018 to 25-APR-2018,,,,.GPR,0,59,59,M,philosophy,none,1
+1123,17347,"29,30,141",PHI111-01D,Introduction to Philosophy,3,WEB,Frances Bottenberg,08-JAN-2018 to 25-APR-2018,,,,.GPR,-1,0,1,D,philosophy,none,1
+1124,10520,,PHI111-02,Introduction to Philosophy,3,LEC,Frances Bottenberg,08-JAN-2018 to 25-APR-2018,T R,1100-1215,GRAM 308,.GPR,0,60,60,M,philosophy,none,1
+1125,11451,,PHI111-03,Introduction to Philosophy,3,LEC,Gary Rosenkrantz,08-JAN-2018 to 25-APR-2018,T R,1530-1645,GRAM 302,.GPR,2,65,63,M,philosophy,none,1
+1126,10536,30,PHI111-04,Introduction to Philosophy,3,WEB,Janine C. Jones,08-JAN-2018 to 25-APR-2018,,,,.GPR.WI,0,25,25,M,philosophy,none,2
+1127,10537,30,PHI111-05,Introduction to Philosophy,3,WEB,Janine C. Jones,08-JAN-2018 to 25-APR-2018,,,,.GPR.WI,0,24,24,M,philosophy,none,2
+1128,17222,"29,30,141",PHI111-05D,Introduction to Philosophy,3,WEB,Janine C. Jones,08-JAN-2018 to 25-APR-2018,,,,.GPR.WI,-1,0,1,D,philosophy,none,2
+1131,10529,30,PHI121-01,Contemporary Moral Problems,3,WEB,Richard L. Gallimore,08-JAN-2018 to 25-APR-2018,,,,.GPR,-3,58,61,M,philosophy,none,1
+1132,13775,"29,30,141",PHI121-01D,Contemporary Moral Problems,3,WEB,Richard L. Gallimore,08-JAN-2018 to 25-APR-2018,,,,.GPR,-7,0,7,D,philosophy,none,1
+1133,11431,30,PHI121-02,Contemporary Moral Problems,3,WEB,Richard L. Gallimore,08-JAN-2018 to 25-APR-2018,,,,.GPR,-1,60,61,M,philosophy,none,1
+1134,10541,30,PHI121-03,Contemporary Moral Problems,3,WEB,Richard L. Gallimore,08-JAN-2018 to 25-APR-2018,,,,.GPR,2,60,58,M,philosophy,none,1
+1135,11432,30,PHI121-04,Contemporary Moral Problems,3,WEB,Michael Zimmerman,08-JAN-2018 to 25-APR-2018,,,,.GPR,4,59,55,M,philosophy,none,1
+1136,17382,"29,30,141",PHI121-04D,Contemporary Moral Problems,3,WEB,Michael Zimmerman,08-JAN-2018 to 25-APR-2018,,,,.GPR,0,7,7,D,philosophy,none,1
+1137,12999,,PHI121-05,Contemporary Moral Problems,3,LEC,Michael Zimmerman,08-JAN-2018 to 25-APR-2018,T R,1100-1215,PETT 150,.GPR,3,60,57,M,philosophy,none,1
+1138,17233,,PHI121-06,Contemporary Moral Problems,3,LEC,Gaetano E. Milazzo,08-JAN-2018 to 25-APR-2018,T R,1700-1815,GRAM 106,.GPR,48,65,17,M,philosophy,none,1
+1139,17230,,PHI121-07,Contemporary Moral Problems,3,LEC,Gaetano E. Milazzo,08-JAN-2018 to 25-APR-2018,T R,1530-1645,GRAM 106,.GPR,20,65,45,M,philosophy,none,1
+1140,13681,"29,30,105",PHI121-81D,Contemporary Moral Problems,3,WEB,Gary Rosenkrantz,09-DEC-2017 to 18-JAN-2018,,,,.GPR,6,65,59,D,philosophy,none,1
+1141,10527,,PHI220-01,Medical Ethics,3,LEC,Heather J. Gert,08-JAN-2018 to 25-APR-2018,T R,0930-1045,GRAM 204,.GPR,3,60,57,M,philosophy,none,1
+1142,10528,,PHI220-02,Medical Ethics,3,LEC,Heather J. Gert,08-JAN-2018 to 25-APR-2018,T R,1100-1215,GRAM 204,.GPR,4,60,56,M,philosophy,none,1
+1143,14315,,PHI222-02,Ethics in the Computer Age,3,LEC,Joseph W. Cole,08-JAN-2018 to 25-APR-2018,T R,0930-1045,SOEB 206,.GPR,-1,40,41,M,philosophy,none,3
+1144,14314,,PHI222-03,Ethics in the Computer Age,3,LEC,Joseph W. Cole,08-JAN-2018 to 25-APR-2018,T R,1100-1215,SOEB 206,.GPR,0,40,40,M,philosophy,none,3
+1145,10533,,PHI252-01,History Modern Philosophy,3,LEC,Adam M. Rosenfeld,08-JAN-2018 to 25-APR-2018,T R,1530-1645,FERG 325,.GHP.GL.GMO,6,50,44,M,philosophy,none,3
+1146,10534,30,PHI252-02,History Modern Philosophy,3,WEB,Adam M. Rosenfeld,08-JAN-2018 to 25-APR-2018,,,,.GHP.GL.GMO,0,33,33,M,philosophy,none,3
+1147,12442,"26,30,141",PHI252-02D,History Modern Philosophy,3,WEB,Adam M. Rosenfeld,08-JAN-2018 to 25-APR-2018,,,,.GHP.GL.GMO,-15,0,15,D,philosophy,none,3
+1148,13439,30,PHI301-01,Phil of Art and Aesthetics,3,WEB,Janine C. Jones,08-JAN-2018 to 25-APR-2018,,,,.WI,0,24,24,M,philosophy,none,1
+1149,17246,"29,30,141",PHI301-01D,Tpcs:Phil of Art and Aesthetic,3,WEB,Janine C. Jones,08-JAN-2018 to 25-APR-2018,,,,.WI,-2,0,2,D,philosophy,none,1
+1152,16804,,PHI321-01,Ethical Theory,3,LEC,Michael Zimmerman,08-JAN-2018 to 25-APR-2018,T R,0930-1045,NMOR 328,.WI,13,30,17,M,philosophy,none,1
+1153,14067,,PHI331-01,Soc and Political Philosophy,3,LEC,Michael B. Matteson,08-JAN-2018 to 25-APR-2018,T,1530-1800,SOEB 224,.GPR,8,26,18,M,philosophy,none,1
+1154,14447,"29,30,141",PHI331-01D,Soc and Political Philosophy,3,WEB,Michael B. Matteson,08-JAN-2018 to 25-APR-2018,,,,.GPR,-13,0,13,D,philosophy,none,1
+1155,14065,30,PHI359-01,Philosophy of Religion,3,WEB,Gary Rosenkrantz,08-JAN-2018 to 25-APR-2018,,,,.GPR,2,36,34,M,philosophy,none,1
+1156,14468,"29,30,141",PHI359-01D,Philosophy of Religion,3,WEB,Gary Rosenkrantz,08-JAN-2018 to 25-APR-2018,,,,.GPR,-4,0,4,D,philosophy,none,1
+1157,16963,"29,30",PHI361-01D,Ethical Issues in Business,3,WEB,Wade M. Maki,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.SUS,-2,30,32,D,philosophy,none,2
+1158,16964,"29,30,141",PHI361-02D,Ethical Issues in Business,3,WEB,Wade M. Maki,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.SUS,-2,30,32,D,philosophy,none,2
+1159,12585,30,PHI361-03,Ethical Issues in Business,3,WEB,Michael B. Matteson,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.SUS,1,59,58,M,philosophy,none,2
+1160,10525,30,PHI361-04,Ethical Issues in Business,3,WEB,Michael B. Matteson,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.SUS,0,59,59,M,philosophy,none,2
+1161,10526,30,PHI361-05,Ethical Issues in Business,3,WEB,Michael B. Matteson,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.SUS,0,57,57,M,philosophy,none,2
+1162,14374,"29,30,141",PHI361-05D,Ethical Issues in Business,3,WEB,Michael B. Matteson,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.SUS,-5,0,5,D,philosophy,none,2
+1163,13612,,PHI361-06,Ethical Issues in Business,3,LEC,Michael B. Matteson,08-JAN-2018 to 25-APR-2018,T R,1400-1515,SOEB 222,.GN.GPR.SUS,0,60,60,M,philosophy,none,2
+1164,16374,30,PHI361-07,Ethical Issues in Business,3,WEB,Christopher M. Metivier,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.SUS,-1,59,60,M,philosophy,none,2
+1165,17316,"29,30,141",PHI361-07D,Ethical Issues in Business,3,WEB,Christopher M. Metivier,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.SUS,-1,0,1,D,philosophy,none,2
+1166,14066,30,PHI361-08,Ethical Issues in Business,3,WEB,Joseph W. Cole,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.IGS.SUS,1,56,55,M,philosophy,none,2
+1167,15804,"29,30,141",PHI361-08D,Ethical Issues in Business,3,WEB,Joseph W. Cole,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.IGS.SUS,-5,0,5,D,philosophy,none,2
+1168,16376,30,PHI361-09,Ethical Issues in Business,3,WEB,Joseph W. Cole,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.SUS,0,57,57,M,philosophy,none,2
+1169,17327,"29,30,141",PHI361-09D,Ethical Issues in Business,3,WEB,Joseph W. Cole,08-JAN-2018 to 25-APR-2018,,,,.GN.GPR.SUS,-3,0,3,D,philosophy,none,2
+1170,12747,"29,30,105",PHI361-81D,Ethical Issues in Business,3,WEB,Wade M. Maki,09-DEC-2017 to 18-JAN-2018,,,,.GN.GPR.SUS,0,60,60,D,philosophy,none,2
+1171,16966,"29,30,105",PHI361-82D,Ethical Issues in Business,3,WEB,Michael B. Matteson,09-DEC-2017 to 18-JAN-2018,,,,.GN.GPR.SUS,3,60,57,D,philosophy,none,2
+1174,10539,"3,10",PHI494-01,Senior Capstone: Phil of Mind,3,LEC,Frances Bottenberg,08-JAN-2018 to 25-APR-2018,M W,1530-1645,CURY 247,.SI.WI,10,19,9,M,philosophy,none,2
+1175,14448,"3,10,29,30,141",PHI494-01D,Senior Capstone Course,3,WEB,Frances Bottenberg,08-JAN-2018 to 25-APR-2018,,,,.SI.WI,-6,0,6,D,philosophy,none,2

@@ -100,7 +100,11 @@ def recommend(student):
             recDF.drop(i, inplace=True)
             
     recDF = recDF[recDF.Score != 0]            
+<<<<<<< HEAD
     #recDF.sort_values('Score', inplace=True, ascending=False)
+=======
+    recDF.sort_values('Score', inplace=True, ascending=False)
+>>>>>>> c0c06d8965c00e4b02b96807836139f09a23e4bb
     os.remove('../../Data/Recommended_Data/recommendedData.csv')
     recDF.to_csv('../../Data/Recommended_Data/recommendedData.csv', index=False)
     return recDF

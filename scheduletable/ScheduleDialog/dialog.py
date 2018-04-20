@@ -140,6 +140,7 @@ class Ui_Dialog(object):
         __sortingEnabled = self.schedule_tbl.isSortingEnabled()
         self.schedule_tbl.setSortingEnabled(False)
         item = self.schedule_tbl.item(0, 0)
+<<<<<<< HEAD
         item.setText(_translate("Dialog", "Princpls of Biology I Lab"))
         item = self.schedule_tbl.item(0, 1)
         item.setText(_translate("Dialog", "Moleculr Bio Apprch in Resrch"))
@@ -149,6 +150,17 @@ class Ui_Dialog(object):
         item.setText(_translate("Dialog", "Approach to Literature"))
         item = self.schedule_tbl.item(2, 3)
         item.setText(_translate("Dialog", "Tpc Nonwest Lit:Postcolnl Dev"))
+=======
+        item.setText(_translate("Dialog", "course1"))
+        item = self.schedule_tbl.item(0, 1)
+        item.setText(_translate("Dialog", "course2"))
+        item = self.schedule_tbl.item(0, 2)
+        item.setText(_translate("Dialog", "course1"))
+        item = self.schedule_tbl.item(2, 1)
+        item.setText(_translate("Dialog", "course3"))
+        item = self.schedule_tbl.item(2, 3)
+        item.setText(_translate("Dialog", "course3"))
+>>>>>>> c0c06d8965c00e4b02b96807836139f09a23e4bb
         self.schedule_tbl.setSortingEnabled(__sortingEnabled)
         self.look_ahead_btn.setText(_translate("Dialog", "Look Ahead"))
         self.create_schedule_btn.setText(_translate("Dialog", "Create Schedule"))

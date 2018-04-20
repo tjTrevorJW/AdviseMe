@@ -14,7 +14,11 @@ class Dialog(QDialog):
 
         tbl = self.ui.schedule_tbl
         
+<<<<<<< HEAD
         self.in_file = open('workfile.txt')
+=======
+        self.in_file = open('/Users/howard/PreferencesDialog/workfile')
+>>>>>>> c0c06d8965c00e4b02b96807836139f09a23e4bb
         self.preference_string = self.in_file.read()
 
  #       self.preference_string = self.preference_string.strip('(')
@@ -28,9 +32,12 @@ class Dialog(QDialog):
             y = x.split(sep=',')
             z = list(filter(None,y))
             self.emp.append(z)
+<<<<<<< HEAD
            
         
         
+=======
+>>>>>>> c0c06d8965c00e4b02b96807836139f09a23e4bb
             
         
                 

@@ -19,11 +19,19 @@ class Preferences(object):
         
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c0c06d8965c00e4b02b96807836139f09a23e4bb
      
 
 
 def main():
+<<<<<<< HEAD
         in_file = open('C:\\Users\\htaleshi\\Downloads\\AdviseMe-master\\AdviseMe-master\\preferencesGUI\\PreferencesDialog\\workfile')
+=======
+        in_file = open('/Users/howard/PreferencesDialog/workfile')
+>>>>>>> c0c06d8965c00e4b02b96807836139f09a23e4bb
         preference_string = in_file.read()
 
  #       self.preference_string = self.preference_string.strip('(')
@@ -51,3 +59,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+<<<<<<< HEAD
+=======
+
+>>>>>>> c0c06d8965c00e4b02b96807836139f09a23e4bb

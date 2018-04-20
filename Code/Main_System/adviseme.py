@@ -8,6 +8,10 @@ import Main, Login, transfer, Register, data, template, schedule, preferences
 
 fullDF = pd.read_csv('../../Data/Course_Data/tempSmall.csv')
 majorDF = pd.read_csv('../../Data/Major_Data/MajorData.csv')
+import ScheduleApp, PreferencesApp, ScheduleDialog, PreferencesDialog
+import ScheduleApp.Dialog as SAD
+import PreferencesApp.Dialog as PAD
+ 
 
 xrange = range
 student = None
@@ -108,7 +112,7 @@ def recommend(student):
     os.remove('../../Data/Recommended_Data/recommendedData.csv')
     recDF.to_csv('../../Data/Recommended_Data/recommendedData.csv', index=False)
     return recDF
-
+"""
 class scheduleDialog(QtGui.QDialog):
     def __init__(self, parent=None, days = ['Monday','Tuesday','Wednesday','Thursday','Friday'],time=0,course_marker=0):
         QtGui.QWidget.__init__(self, parent)
@@ -170,7 +174,8 @@ class scheduleDialog(QtGui.QDialog):
             if course in student.major.requirements:
                 recs.append(course)
         return recs
-
+"""
+"""
 class preferencesDialog(QtGui.QDialog):
     def __init__(self, parent=None):
         QtGui.QWidget.__init__(self, parent)
@@ -212,7 +217,7 @@ class preferencesDialog(QtGui.QDialog):
         sched = scheduleDialog(self, days, time, course_mark)
         sched.show()
         self.done(0)
-
+"""
 class transferDialog(QtGui.QDialog):
     def __init__(self, parent=None):
         QtGui.QWidget.__init__(self, parent)
@@ -361,6 +366,10 @@ class am(QtGui.QDialog):
         self.show()
         self.login = LoginDialog()
         self.login.show()
+        self.schedule = SAD()
+        self.schedule.show()
+        self.preferences = PAD()
+        self.preferences.show()
 
 if __name__ == "__main__":
     app = QtGui.QApplication(sys.argv)

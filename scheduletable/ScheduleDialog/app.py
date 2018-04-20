@@ -1,7 +1,7 @@
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QApplication, QMainWindow,QWidget,QTableWidget,QTableWidgetItem,QPushButton,QPlainTextEdit, QDialog, QComboBox, QCheckBox,QTimeEdit
-from dialog import Ui_Dialog
+from ScheduleDialog import Ui_Dialog
 from PyQt5.QtCore import pyqtSlot
 from operator import sub
 

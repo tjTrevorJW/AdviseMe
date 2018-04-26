@@ -73,11 +73,18 @@ sg = problem.getSolutionIter()
 
 
 # store in deque
-schedule_deque = deque()
-deque.append()
+global schedule_deque = deque()
+#append one by one
+deque.append(sg)
+
+
+#alternative: appending to variable sized array (Python "list")
+#schedule_list = []
+#schedule_list.append(sg) -- rejected due to inefficiency when compared to the deque (which has constant time append)
 
 
 
+"""END DESIGN CHOICES"""
 
 
 

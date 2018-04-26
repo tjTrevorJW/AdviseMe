@@ -1,4 +1,5 @@
 from constraint import *
+from collections import deque
 import Preferences 
 """Demo of constraint program to generate schedule that aligns with preferences"""
 
@@ -26,7 +27,8 @@ min_time = int((str(hour_time_from).strip() + str(minute_time_from).strip()).str
 
 print(max_time)
 print(min_time)
-
+#sg = problem.getSolutions()
+#
 times = list(range(80,2400))
 num_courses = list(range(min_courses,max_courses+1))
 
@@ -61,10 +63,26 @@ problem.addConstraint(lambda day,time,num_course,professor,subject,location:
                           ("day", "time","num_course","professor","subject","location"))
  
 
+""" DESIGN CHOICES """
+# Eagerly obtain all possible schedule possibilities --rejected in favor of lazily generating
+# sg = problem.getSolutions()
 
 
-
+# Lazy generation of solutions: file should be called multiple times, when user needs to obtain another schedule
 sg = problem.getSolutionIter()
+
+
+# store in deque
+schedule_deque = deque()
+deque.append()
+
+
+
+
+
+
+
+
 
 
 
